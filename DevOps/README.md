@@ -1,4 +1,4 @@
-## Links DevOps
+## DevOps Links
 
 Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, Kubernates, CI e CD...
 
