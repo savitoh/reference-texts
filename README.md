@@ -8,11 +8,10 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 ####  [Java]
 
-- [Testes de Integração]
-- [Testes de Unidade]
-
 ####  [Unit and Integration Testing]
 
+- [Testes de Integração]
+- [Testes de Unidade]
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 
