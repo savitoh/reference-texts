@@ -3,7 +3,7 @@
 Seção dedicada a textos relacionados a prática de testes unitários e de integração.
 
 
-### Testes de integração
+### Testes de Integração
 | **Titulo**  |
 |---|
 |[HOWTO: Write Spring Boot integration tests with a ‘real’ database] |
