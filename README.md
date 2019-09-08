@@ -2,13 +2,15 @@
 
 Repositório com links para artigos e tutoriais, utilizados por mim, como fontes de estudos e/ou referências na área de desenvolvimento.
 
-#### [DevOps]
+#### * [DevOps]
 
-#### [Java]
+#### * [Java]
 
-#### Unit and Integration Testing
+#### * Unit and Integration Testing
 
 
-[DevOps] <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
+[DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 
-[Java] <https://github.com/savitoh/Reference_Texts/tree/master/Java>
+[Java]: <https://github.com/savitoh/Reference_Texts/tree/master/Java>
+
+[Unit and Integration Testing]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing>
