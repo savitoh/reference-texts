@@ -8,6 +8,9 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 ####  [Java]
 
+- [Testes de Integração]
+- [Testes de Unidade]
+
 ####  [Unit and Integration Testing]
 
 
@@ -18,3 +21,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Unit and Integration Testing]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing>
 
 [Spring Boot com Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#spring-boot-com-docker>
+
+[Testes de Integração]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-integra%C3%A7%C3%A3o>
+
+[Testes de Unidade]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-unidade>
