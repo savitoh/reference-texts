@@ -2,7 +2,7 @@
 
 Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, Kubernates, CI e CD...
 
-### Docker com Spring Boot
+### Spring Boot com Docker
 
 | **Titulo**  |
 |---|
