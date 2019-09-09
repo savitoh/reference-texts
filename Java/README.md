@@ -6,11 +6,9 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema; Fra
 
 | **Titulo**  |
 |---|
-|[Jackson – Bidirectional Relationships
-]|
-|[Jackson – Decide What Fields Get Serialized/Deserialized
-]|
-|[]|
+|[Jackson – Bidirectional Relationships]|
+|[Jackson – Decide What Fields Get Serialized/Deserialized]|
+|[Jackson Dat]|
 ------------
 
 
