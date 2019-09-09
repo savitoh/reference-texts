@@ -8,7 +8,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema; Fra
 |---|
 |[Jackson – Bidirectional Relationships]|
 |[Jackson – Decide What Fields Get Serialized/Deserialized]|
-|[Jackson Dat]|
+|[Jackson Date]|
 ------------
 
 
