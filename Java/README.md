@@ -1,6 +1,6 @@
 ## Java
 
-Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema; Frameworks, JVM e Bibliotecas.
+Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 ### Jackson
 
