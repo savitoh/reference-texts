@@ -17,6 +17,7 @@ Seção dedicada a textos relacionados a prática de testes unitários e de inte
 | [Testing Spring MVC Web Controllers with @WebMvcTest] |
 | [A Unit Testing Practitioner's Guide to Everyday Mockito]|
 | [Spring Data JPA Repository Testing using Spring Boot @DataJpaTest] |
+|[How to test services, endpoints, and repositories in Spring Boot]|
 ------------
 [Spring Data JPA Repository Testing using Spring Boot @DataJpaTest
 ]: <https://www.javaguides.net/2018/09/spring-data-jpa-repository-testing-using-spring-boot-datajpatest.html>
@@ -29,3 +30,4 @@ Seção dedicada a textos relacionados a prática de testes unitários e de inte
 [HOWTO: Write Spring Boot integration tests with a ‘real’ database]: <https://rieckpil.de/howto-write-spring-boot-integration-tests-with-a-real-database/>
 [Spring Boot 2 CRUD REST APIs Integration Testing
 ]: <https://www.javaguides.net/2018/09/spring-boot-2-rest-apis-integration-testing.html>
+[How to test services, endpoints, and repositories in Spring Boot]: <https://www.freecodecamp.org/news/unit-testing-services-endpoints-and-repositories-in-spring-boot-4b7d9dc2b772/>
