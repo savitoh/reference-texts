@@ -4,7 +4,7 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 
 ### Spring Boot com Docker
 
-| **Titulo**  |
+| **Título**  |
 |---|
 | [A Start to Finish Guide to Docker with Java] |
 | [Desenvolvimento do Spring Boot com Docker] |

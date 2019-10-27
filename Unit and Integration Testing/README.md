@@ -4,14 +4,14 @@ Seção dedicada a textos relacionados a prática de testes unitários e de inte
 
 
 ### Testes de Integração
-| **Titulo**  |
+| **Título**  |
 |---|
 |[HOWTO: Write Spring Boot integration tests with a ‘real’ database] |
 |[Spring Boot 2 CRUD REST APIs Integration Testing]|
 ------------
 
 ### Testes de Unidade
-| **Titulo**  |
+| **Título**  |
 |---|
 | [Unit Testing Rest Services with Spring Boot and JUnit] |
 | [Testing Spring MVC Web Controllers with @WebMvcTest] |

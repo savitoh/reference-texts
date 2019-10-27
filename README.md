@@ -8,6 +8,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 ####  [Java]
 - [Jackson]
+- [JPA/Hibernate]
 
 ####  [Unit and Integration Testing]
 
@@ -25,3 +26,5 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Testes de Integração]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-integra%C3%A7%C3%A3o>
 
 [Testes de Unidade]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-unidade>
+
+[JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#JPA/Hibernate>
