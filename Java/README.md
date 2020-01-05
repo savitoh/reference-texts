@@ -1,4 +1,4 @@
-## Java
+## Java Links
 
 Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
@@ -20,6 +20,8 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]|
 |[Hibernate 5 - Criteria query example]|
 |[JPA / Hibernate One to Many Mapping Example with Spring Boot]|
+|[Audit entities with Hibernate Envers]|
+|[Versioning and Auditing with Hibernate Envers]|
 --------------
 
 
@@ -37,3 +39,5 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 [Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]: <https://blog.mimacom.com/java-8-dates-with-postgresql/>
 [Hibernate 5 - Criteria query example]: <https://www.boraji.com/hibernate-5-criteria-query-example>
 [JPA / Hibernate One to Many Mapping Example with Spring Boot]: <https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/>
+[Audit entities with Hibernate Envers]: <https://adamzareba.github.io/Audit-entities-with-Hibernate-Envers/>
+[Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
