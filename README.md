@@ -7,6 +7,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Spring Boot com Docker]
 
 ####  [Java]
+- [Spring Batch]
 - [Jackson]
 - [JPA/Hibernate]
 
@@ -23,6 +24,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 
 [Java]: <https://github.com/savitoh/Reference_Texts/tree/master/Java>
+[Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Jackson]: <https://github.com/savitoh/reference-texts/tree/master/Java#jackson>
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 
