@@ -2,6 +2,14 @@
 
 Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
+### Spring Batch
+
+|**Título** |
+|---|
+|[Spring Batch in Action]|
+------------
+
+
 ### Jackson
 
 | **Título**  |
@@ -41,3 +49,6 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 [JPA / Hibernate One to Many Mapping Example with Spring Boot]: <https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/>
 [Audit entities with Hibernate Envers]: <https://adamzareba.github.io/Audit-entities-with-Hibernate-Envers/>
 [Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
+
+
+[Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
