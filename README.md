@@ -18,6 +18,8 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 #### [Databases]
 
+#### [Design Patterns / Boas Práticas]
+
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [Cloud Computing]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#cloud-computing>
 [Spring Boot com Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#spring-boot-com-docker>
@@ -34,5 +36,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Testes de Unidade]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-unidade>
 
 [Databases]: <https://github.com/savitoh/Reference_Texts/tree/master/Databases>
+
+[Design Patterns / Boas Práticas]: <>
 
 
