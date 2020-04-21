@@ -8,6 +8,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 ####  [Java]
 - [Spring Batch]
+- [Spring Security]
 - [Jackson]
 - [JPA/Hibernate]
 
@@ -27,6 +28,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 [Java]: <https://github.com/savitoh/Reference_Texts/tree/master/Java>
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
+[Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
 [Jackson]: <https://github.com/savitoh/reference-texts/tree/master/Java#jackson>
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 
