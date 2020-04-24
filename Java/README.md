@@ -21,6 +21,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 |**Título** |
 |---|
+|[Spring Security Reference]|
 |[Spring Security: Authentication and Authorization In-Depth]|
 ------------
 
@@ -69,4 +70,5 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 [Spring Framework Documentation]: <https://docs.spring.io/spring/docs/current/spring-framework-reference/>
 
+[Spring Security Reference]: <https://docs.spring.io/spring-security/site/docs/current/reference/html5/>
 [Spring Security: Authentication and Authorization In-Depth]: <https://www.marcobehler.com/guides/spring-security>
