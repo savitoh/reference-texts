@@ -10,6 +10,13 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Spring Batch - Reference Documentation]|
 ------------
 
+### Spring Framework
+
+|** Título**|
+|---|
+|[Spring Framework Documentation]|
+------------
+
 ### Spring Security
 
 |**Título** |
@@ -59,5 +66,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
 [Spring Batch - Reference Documentation]: <https://docs.spring.io/spring-batch/docs/4.1.x/reference/html/index.html>
+
+[Spring Framework Documentation]: <https://docs.spring.io/spring/docs/current/spring-framework-reference/>
 
 [Spring Security: Authentication and Authorization In-Depth]: <https://www.marcobehler.com/guides/spring-security>
