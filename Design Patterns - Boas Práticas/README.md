@@ -4,10 +4,13 @@ Seção dedicada a textos relacionados a Design Patterns e Boas Práticas de có
 
 | **Título**  |
 |---|
-|[Refactoring.Guru]|
+|[Best Practices for Designing a Pragmatic RESTful API]|
 |[Design patterns implemented in Java]|
+|[Refactoring Guru]|
 ------------
 
-[Refactoring.Guru]: <https://refactoring.guru/>
+[Best Practices for Designing a Pragmatic RESTful API]: <https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api>
 
 [Design patterns implemented in Java]: <https://java-design-patterns.com/>
+
+[Refactoring Guru]: <https://refactoring.guru/>
