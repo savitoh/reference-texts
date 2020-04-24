@@ -12,7 +12,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 ### Spring Framework
 
-|** Título**|
+|**Título**|
 |---|
 |[Spring Framework Documentation]|
 ------------
