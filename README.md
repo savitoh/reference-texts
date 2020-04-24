@@ -5,6 +5,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 ####  [DevOps]
 
 - [Spring Boot com Docker]
+- [Cloud Computing]
 
 ####  [Java]
 - [Spring Batch]
