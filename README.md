@@ -21,7 +21,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 #### [Databases]
 
-#### [Design Patterns / Boas Práticas]
+#### [Engenharia de Software / Arquitetura / Design Patterns / Boas Práticas Links]
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [Cloud Computing]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#cloud-computing>
@@ -42,6 +42,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 [Databases]: <https://github.com/savitoh/Reference_Texts/tree/master/Databases>
 
-[Design Patterns / Boas Práticas]: <https://github.com/savitoh/reference-texts/tree/master/Design%20Patterns%20-%20Boas%20Pr%C3%A1ticas>
+[Engenharia de Software / Arquitetura / Design Patterns / Boas Práticas Links]: <https://github.com/savitoh/reference-texts/tree/master/Design%20Patterns%20-%20Boas%20Pr%C3%A1ticas>
 
 

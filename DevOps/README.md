@@ -9,6 +9,13 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 | [Azure para desenvolvedores de nuvem do Java] |
 ------------
 
+### Devops
+
+| **Título** |
+|---|
+| [Apostila do curso de DevOps da Caelum] |
+-----------
+
 ### Spring Boot com Docker
 
 | **Título**  |
@@ -20,6 +27,8 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 ------------
 
 [Azure para desenvolvedores de nuvem do Java]: <https://docs.microsoft.com/pt-br/azure/java/?view=azure-java-stable>
+
+[Apostila do curso de DevOps da Caelum]: <https://github.com/caelum/apostila-devops>
 
 [A Start to Finish Guide to Docker with Java]: <https://stackify.com/guide-docker-java/>
 [Desenvolvimento do Spring Boot com Docker]: <https://imasters.com.br/back-end/desenvolvimento-do-spring-boot-com-docker>
