@@ -4,24 +4,19 @@ Seção dedicada a textos relacionados a Linguguagem JavaScript e seu ecossistem
 
 ### Ferramentas
 
-|**Título** |
+|**Título**|
 |---|
-[How to setup Webpack and Babel for Es6+]
-
-[How to configure CSS and CSS modules in webpack]
-
-[TypeScript With Babel: A Beautiful Marriage]
-
+|[How to setup Webpack and Babel for Es6+]|
+|[How to configure CSS and CSS modules in webpack]|
+|[TypeScript With Babel: A Beautiful Marriage]|
 ------------
 
 ### Web Components
 
-|**Título** |
+|**Título**|
 |---|
-[Building a pure javascript widget with Web Components - Part 1]
-
-[Web Components Tutorial for Beginners 2019]
-
+|[Building a pure javascript widget with Web Components - Part 1]|
+|[Web Components Tutorial for Beginners 2019]|
 ------------
 
 [How to setup Webpack and Babel for Es6+]: <https://dev.to/alecgodwin/how-to-setup-webpack-and-babel-for-es6-dpk>
