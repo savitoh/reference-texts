@@ -15,6 +15,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [JPA/Hibernate]
 
 ### [Javascript]
+
 - [Ferramentas]
 - [Web Components]
 
@@ -38,7 +39,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
 [Jackson]: <https://github.com/savitoh/reference-texts/tree/master/Java#jackson>
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
-
 
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
 [Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
