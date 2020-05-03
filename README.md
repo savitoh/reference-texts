@@ -14,6 +14,10 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Jackson]
 - [JPA/Hibernate]
 
+### [Javascript]
+- [Ferramentas]
+- [Web Components]
+
 ####  [Unit and Integration Testing]
 
 - [Testes de Integração]
@@ -36,11 +40,18 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 
 
+[JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
+[Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
+[Web Components]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#web-components>
+
+
 [Unit and Integration Testing]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing>
 [Testes de Integração]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-integra%C3%A7%C3%A3o>
 [Testes de Unidade]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-unidade>
 
+
 [Databases]: <https://github.com/savitoh/Reference_Texts/tree/master/Databases>
+
 
 [Engenharia de Software / Arquitetura / Design Patterns / Boas Práticas]: <https://github.com/savitoh/reference-texts/tree/master/Design%20Patterns%20-%20Boas%20Pr%C3%A1ticas>
 
