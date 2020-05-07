@@ -2,6 +2,13 @@
 
 Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, Kubernates, CI e CD...
 
+### CI/CD
+
+| **Título**  |
+|---|
+| Automatically deploy with Travis CI and Heroku |
+------------
+
 ### Cloud Computing
 
 | **Título**  |
@@ -23,8 +30,10 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 | [A Start to Finish Guide to Docker with Java] |
 | [Desenvolvimento do Spring Boot com Docker] |
 | [Spring Boot: Run and Build in Docker With JDK 11] |
-| [Dockerize REST Spring-boot application with Hibernate having database as MySQL] | 
+| [Dockerize REST Spring-boot application with Hibernate having database as MySQL] |
 ------------
+
+[Automatically deploy with Travis CI and Heroku]: <https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f>
 
 [Azure para desenvolvedores de nuvem do Java]: <https://docs.microsoft.com/pt-br/azure/java/?view=azure-java-stable>
 

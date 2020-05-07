@@ -2,10 +2,11 @@
 
 Repositório com links para artigos e tutoriais, utilizados por mim, como fontes de estudos e/ou referências na área de desenvolvimento.
 
-####  [DevOps]
+#### [DevOps]
 
-- [Spring Boot com Docker]
+- [CI/CD]
 - [Cloud Computing]
+- [Spring Boot com Docker]
 
 ####  [Java]
 - [Spring Batch]
@@ -29,6 +30,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 #### [Engenharia de Software / Arquitetura / Design Patterns / Boas Práticas]
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
+|CI/CD|: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#ci/cd>
 [Cloud Computing]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#cloud-computing>
 [Spring Boot com Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#spring-boot-com-docker>
 
