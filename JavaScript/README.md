@@ -10,6 +10,7 @@ Seção dedicada a textos relacionados a Linguguagem JavaScript e seu ecossistem
 |[How to configure CSS and CSS modules in webpack]|
 |[TypeScript With Babel: A Beautiful Marriage]|
 |[A Guide to inject variable into your code using webpack]|
+|[Utilizando Travis CI para fazer Continuous Deployment de suas aplicações no GitHub Pages]|
 ------------
 
 ### Web Components
@@ -27,3 +28,4 @@ Seção dedicada a textos relacionados a Linguguagem JavaScript e seu ecossistem
 
 [Building a pure javascript widget with Web Components - Part 1]: <https://makerbubble.com/building-a-plain-javascript-widget-with-es6/>
 [Web Components Tutorial for Beginners 2019]: <https://www.robinwieruch.de/web-components-tutorial>
+[Utilizando Travis CI para fazer Continuous Deployment de suas aplicações no GitHub Pages]: <https://medium.com/trainingcenter/utilizando-travis-ci-para-fazer-continuous-deployment-de-suas-aplica%C3%A7%C3%B5es-no-github-pages-e86c6b55cba1>
