@@ -7,6 +7,7 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 | **Título**  |
 |---|
 | [Automatically deploy with Travis CI and Heroku] |
+|[Integração contínua e deploy automatizado no Heroku com Travis CI — Spring Boot API]|
 ------------
 
 ### Cloud Computing
@@ -34,6 +35,8 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 ------------
 
 [Automatically deploy with Travis CI and Heroku]: <https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f>
+[Integração contínua e deploy automatizado no Heroku com Travis CI — Spring Boot API
+]: <https://medium.com/@vitor.alves/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-deploy-automatizado-no-heroku-com-travis-ci-spring-boot-api-da96a32b93ab>
 
 [Azure para desenvolvedores de nuvem do Java]: <https://docs.microsoft.com/pt-br/azure/java/?view=azure-java-stable>
 
