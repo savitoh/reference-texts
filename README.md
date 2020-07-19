@@ -8,7 +8,9 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Cloud Computing]
 - [Spring Boot com Docker]
 
-####  [Java]
+#### [Java]
+
+- [Básico]
 - [Spring Batch]
 - [Spring Framework]
 - [Spring Security]
@@ -20,7 +22,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Ferramentas]
 - [Web Components]
 
-####  [Unit and Integration Testing]
+#### [Unit and Integration Testing]
 
 - [Testes de Integração]
 - [Testes de Unidade]
@@ -34,8 +36,8 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Cloud Computing]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#cloud-computing>
 [Spring Boot com Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#spring-boot-com-docker>
 
-
 [Java]: <https://github.com/savitoh/Reference_Texts/tree/master/Java>
+[Básico]: <https://github.com/savitoh/reference-texts/tree/master/Java#b%C3%A1sico>
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Spring Framework]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-framework>
 [Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
@@ -46,15 +48,10 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
 [Web Components]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#web-components>
 
-
 [Unit and Integration Testing]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing>
 [Testes de Integração]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-integra%C3%A7%C3%A3o>
 [Testes de Unidade]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-unidade>
 
-
 [Databases]: <https://github.com/savitoh/Reference_Texts/tree/master/Databases>
 
-
 [Engenharia de Software / Arquitetura / Design Patterns / Boas Práticas]: <https://github.com/savitoh/reference-texts/tree/master/Design%20Patterns%20-%20Boas%20Pr%C3%A1ticas>
-
-
