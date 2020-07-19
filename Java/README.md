@@ -2,6 +2,14 @@
 
 Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
+### Básico
+
+|**Título** |
+|---|
+|[Java Language and Virtual Machine Specifications]|
+|[Imergindo na JVM]|
+------------
+
 ### Spring Batch
 
 |**Título** |
@@ -41,12 +49,13 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Consultas dinâmicas e typesafe em JPA 2.0]|
 |[SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE]|
 |[Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]|
-|[JPA / Hibernate One to Many Mapping Example with Spring Boot]|
 |[Audit entities with Hibernate Envers]|
 |[Versioning and Auditing with Hibernate Envers]|
 |[Awesome Spring Specification How-to]|
 --------------
 
+[Imergindo na JVM]: <https://otaviojava.gitbooks.io/imergindo-na-jvm/pt-br/index.html>
+[Java Language and Virtual Machine Specifications]: <https://docs.oracle.com/javase/specs/index.html>
 
 [Jackson – Bidirectional Relationships
 ]: <https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion>
@@ -54,13 +63,11 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 ]:<https://www.baeldung.com/jackson-field-serializable-deserializable-or-not>
 [Jackson Date]: <https://www.baeldung.com/jackson-serialize-dates>
 
-
 [Consultas dinâmicas e typesafe em JPA 2.0
 ]: <https://www.ibm.com/developerworks/br/java/library/j-typesafejpa/index.html>
 [SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE
 ]: <https://www.bytestree.com/spring/spring-data-jpa-projections-5-ways-return-custom-object>
 [Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]: <https://blog.mimacom.com/java-8-dates-with-postgresql/>
-[JPA / Hibernate One to Many Mapping Example with Spring Boot]: <https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/>
 [Audit entities with Hibernate Envers]: <https://adamzareba.github.io/Audit-entities-with-Hibernate-Envers/>
 [Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
 [Awesome Spring Specification How-to]: <https://leaks.wanari.com/2018/01/23/awesome-spring-specification>
