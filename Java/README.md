@@ -31,7 +31,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |---|
 |[Spring Security Reference]|
 |[Spring Security: Authentication and Authorization In-Depth]|
-|[https://www.digitalocean.com/community/tutorials/uma-introducao-ao-oauth-2-pt]|
+|[Uma introdução ao OAuth 2]|
 ------------
 
 ### Jackson
