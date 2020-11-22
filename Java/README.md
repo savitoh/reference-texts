@@ -53,6 +53,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Audit entities with Hibernate Envers]|
 |[Versioning and Auditing with Hibernate Envers]|
 |[Awesome Spring Specification How-to]|
+|[How to add a new constraint to Hibernate Validator in a few simple steps]|
 --------------
 
 [Imergindo na JVM]: <https://otaviojava.gitbooks.io/imergindo-na-jvm/pt-br/index.html>
@@ -64,6 +65,9 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 ]:<https://www.baeldung.com/jackson-field-serializable-deserializable-or-not>
 [Jackson Date]: <https://www.baeldung.com/jackson-serialize-dates>
 
+
+[comment]: # (Jpa/Hibernate)
+
 [Consultas dinâmicas e typesafe em JPA 2.0
 ]: <https://www.ibm.com/developerworks/br/java/library/j-typesafejpa/index.html>
 [SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE
@@ -72,6 +76,11 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 [Audit entities with Hibernate Envers]: <https://adamzareba.github.io/Audit-entities-with-Hibernate-Envers/>
 [Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
 [Awesome Spring Specification How-to]: <https://leaks.wanari.com/2018/01/23/awesome-spring-specification>
+[How to add a new constraint to Hibernate Validator in a few simple steps
+]: <https://in.relation.to/2018/01/04/adding-new-constraint-to-engine/>
+
+
+[comment]: # (Spring Batch)
 
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
 [Spring Batch - Reference Documentation]: <https://docs.spring.io/spring-batch/docs/4.1.x/reference/html/index.html>
