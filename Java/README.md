@@ -6,6 +6,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 |**Título** |
 |---|
+|[Classic Computer Science Problems in Java]|
 |[Java Language and Virtual Machine Specifications]|
 |[Imergindo na JVM]|
 ------------
@@ -47,15 +48,17 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 |**Título**|
 |---|
+|[Audit entities with Hibernate Envers]|
+|[Awesome Spring Specification How-to]|
 |[Consultas dinâmicas e typesafe em JPA 2.0]|
+|[How to add a new constraint to Hibernate Validator in a few simple steps]|
+|[Java Persistence with Hibernate, Second Edition]|
 |[SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE]|
 |[Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]|
-|[Audit entities with Hibernate Envers]|
 |[Versioning and Auditing with Hibernate Envers]|
-|[Awesome Spring Specification How-to]|
-|[How to add a new constraint to Hibernate Validator in a few simple steps]|
 --------------
 
+[Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
 [Imergindo na JVM]: <https://otaviojava.gitbooks.io/imergindo-na-jvm/pt-br/index.html>
 [Java Language and Virtual Machine Specifications]: <https://docs.oracle.com/javase/specs/index.html>
 
@@ -68,16 +71,17 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 [comment]: # (Jpa/Hibernate)
 
+[Audit entities with Hibernate Envers]: <https://adamzareba.github.io/Audit-entities-with-Hibernate-Envers/>
+[Awesome Spring Specification How-to]: <https://leaks.wanari.com/2018/01/23/awesome-spring-specification>
 [Consultas dinâmicas e typesafe em JPA 2.0
 ]: <https://www.ibm.com/developerworks/br/java/library/j-typesafejpa/index.html>
+[How to add a new constraint to Hibernate Validator in a few simple steps
+]: <https://in.relation.to/2018/01/04/adding-new-constraint-to-engine/>
+[Java Persistence with Hibernate, Second Edition]: <https://www.manning.com/books/java-persistence-with-hibernate-second-edition?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASABEgKoGvD_BwE>
 [SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE
 ]: <https://www.bytestree.com/spring/spring-data-jpa-projections-5-ways-return-custom-object>
 [Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]: <https://blog.mimacom.com/java-8-dates-with-postgresql/>
-[Audit entities with Hibernate Envers]: <https://adamzareba.github.io/Audit-entities-with-Hibernate-Envers/>
 [Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
-[Awesome Spring Specification How-to]: <https://leaks.wanari.com/2018/01/23/awesome-spring-specification>
-[How to add a new constraint to Hibernate Validator in a few simple steps
-]: <https://in.relation.to/2018/01/04/adding-new-constraint-to-engine/>
 
 
 [comment]: # (Spring Batch)
