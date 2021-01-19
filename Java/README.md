@@ -11,6 +11,14 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Imergindo na JVM]|
 ------------
 
+### Concurrency
+
+|**Título** |
+|---|
+|[Functional-Style Callbacks Using Java 8's CompletableFuture]|
+|[Java 8 concurrency basics]|
+------------
+
 ### Spring Batch
 
 |**Título** |
@@ -61,6 +69,11 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 [Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
 [Imergindo na JVM]: <https://otaviojava.gitbooks.io/imergindo-na-jvm/pt-br/index.html>
 [Java Language and Virtual Machine Specifications]: <https://docs.oracle.com/javase/specs/index.html>
+
+
+[Functional-Style Callbacks Using Java 8's CompletableFuture]: <https://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture>
+[Java 8 concurrency basics]: <https://www.ibm.com/developerworks/java/library/j-jvmc2/index.html>
+
 
 [Jackson – Bidirectional Relationships
 ]: <https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion>
