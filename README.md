@@ -13,6 +13,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 #### [Java]
 
 - [Básico]
+- [Concurrency]
 - [Spring Batch]
 - [Spring Framework]
 - [Spring Security]
@@ -40,6 +41,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Spring Boot com Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#spring-boot-com-docker>
 
 [Java]: <https://github.com/savitoh/Reference_Texts/tree/master/Java>
+[Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Java#concurrency>
 [Básico]: <https://github.com/savitoh/reference-texts/tree/master/Java#b%C3%A1sico>
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Spring Framework]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-framework>
