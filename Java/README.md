@@ -63,6 +63,7 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Java Persistence with Hibernate, Second Edition]|
 |[SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE]|
 |[Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]|
+|[Troubleshooting Spring Data JPA Specification and Criteria queries impact on Hibernate's QueryPlanCache]|
 |[Versioning and Auditing with Hibernate Envers]|
 --------------
 
@@ -93,6 +94,8 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 [Java Persistence with Hibernate, Second Edition]: <https://www.manning.com/books/java-persistence-with-hibernate-second-edition?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASABEgKoGvD_BwE>
 [SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE
 ]: <https://www.bytestree.com/spring/spring-data-jpa-projections-5-ways-return-custom-object>
+[Troubleshooting Spring Data JPA Specification and Criteria queries impact on Hibernate's QueryPlanCache
+]: <https://tech.asimio.net/2021/01/27/Troubleshooting-Spring-Data-JPA-Specification-and-Criteria-queries-impact-on-Hibernate-QueryPlanCache.html>
 [Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]: <https://blog.mimacom.com/java-8-dates-with-postgresql/>
 [Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
 
