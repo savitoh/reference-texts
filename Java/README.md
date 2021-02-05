@@ -1,6 +1,6 @@
 ## Java Links
 
-Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
+Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### Básico
 
