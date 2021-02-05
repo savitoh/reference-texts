@@ -25,6 +25,10 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Ferramentas]
 - [Web Components]
 
+#### [Kotlin]
+
+- [Kotlin Concurrency]
+
 #### [Software Engineering / Architecture / Design Patterns]
 
 #### [Unit and Integration Testing]
@@ -52,6 +56,9 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
 [Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
 [Web Components]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#web-components>
+
+[Kotlin]: <https://github.com/savitoh/Reference_Texts/tree/master/Kotlin>
+[Kotlin Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Kotlin#kotlin-concurrency>
 
 [Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns>
 
