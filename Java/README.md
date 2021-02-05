@@ -43,15 +43,6 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 |[Uma introdução ao OAuth 2]|
 ------------
 
-### Jackson
-
-| **Título**  |
-|---|
-|[Jackson – Bidirectional Relationships]|
-|[Jackson – Decide What Fields Get Serialized/Deserialized]|
-|[Jackson Date]|
-------------
-
 ### JPA/Hibernate
 
 |**Título**|
@@ -74,13 +65,6 @@ Seção dedicada a textos relacionados a Linguguagem Java e seu ecossistema.
 
 [Functional-Style Callbacks Using Java 8's CompletableFuture]: <https://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture>
 [Java 8 concurrency basics]: <https://www.ibm.com/developerworks/java/library/j-jvmc2/index.html>
-
-
-[Jackson – Bidirectional Relationships
-]: <https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion>
-[Jackson – Decide What Fields Get Serialized/Deserialized
-]:<https://www.baeldung.com/jackson-field-serializable-deserializable-or-not>
-[Jackson Date]: <https://www.baeldung.com/jackson-serialize-dates>
 
 
 [comment]: # (Jpa/Hibernate)
