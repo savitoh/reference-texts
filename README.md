@@ -31,6 +31,8 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 #### [Software Engineering / Architecture / Design Patterns]
 
+- [Event-driven architecture / Server-Sent Events]
+
 #### [Unit and Integration Testing]
 
 - [Testes de Integração]
@@ -61,6 +63,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Kotlin Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Kotlin#kotlin-concurrency>
 
 [Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns>
+[Event-driven architecture / Server-Sent Events]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns#event-driven-architecture--server-sent-events>
 
 
 [Unit and Integration Testing]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing>
