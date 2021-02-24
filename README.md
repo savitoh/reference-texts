@@ -3,6 +3,7 @@
 Repositório com links para artigos e tutoriais, utilizados por mim, como fontes de estudos e/ou referências na área de desenvolvimento.
 
 #### [Databases]
+-[Public Streaming Datasets]
 
 #### [DevOps]
 
@@ -40,6 +41,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 
 [Databases]: <https://github.com/savitoh/Reference_Texts/tree/master/Databases>
+[Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [CI/CD]: <https://github.com/savitoh/reference-texts/tree/master/DevOps#cicd>
