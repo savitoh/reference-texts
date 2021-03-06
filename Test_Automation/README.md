@@ -24,7 +24,6 @@ Seção dedicada a textos sobre automação de testes.
 ### Testes de Unidade
 | **Título**  |
 |---|
-| [Unit Testing Rest Services with Spring Boot and JUnit] |
 | [Testing Spring MVC Web Controllers with @WebMvcTest] |
 | [A Unit Testing Practitioner's Guide to Everyday Mockito]|
 | [Spring Data JPA Repository Testing using Spring Boot @DataJpaTest] |
@@ -35,8 +34,6 @@ Seção dedicada a textos sobre automação de testes.
 ]: <https://www.javaguides.net/2018/09/spring-data-jpa-repository-testing-using-spring-boot-datajpatest.html>
 [A Unit Testing Practitioner's Guide to Everyday Mockito
 ]: <https://www.toptal.com/java/a-guide-to-everyday-mockito>
-[Unit Testing Rest Services with Spring Boot and JUnit
-]: <http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services>
 [Testing Spring MVC Web Controllers with @WebMvcTest
 ]: <https://reflectoring.io/spring-boot-web-controller-test/>
 [HOWTO: Write Spring Boot integration tests with a ‘real’ database]: <https://rieckpil.de/howto-write-spring-boot-integration-tests-with-a-real-database/>

@@ -71,6 +71,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 
 [Test Automation]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#test-automation>
 [Performance Testing]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#performance-testing>
-[Testes de Integração]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-integra%C3%A7%C3%A3o>
-[Testes de Unidade]: <https://github.com/savitoh/Reference_Texts/tree/master/Unit%20and%20Integration%20Testing#testes-de-unidade>
+[Testes de Integração]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#testes-de-integra%C3%A7%C3%A3o>
+[Testes de Unidade]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#testes-de-unidade>
 
