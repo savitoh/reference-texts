@@ -1,6 +1,17 @@
-## Unit and Integration Testing Links
+## Test Automation
 
-Seção dedicada a textos relacionados a prática de testes unitários e de integração.
+Seção dedicada a textos sobre automação de testes.
+
+
+### Performance Testing
+| **Título**  |
+|---|
+|[Performance Testing Spring Boot with Gatling]|
+------------
+
+
+[Performance Testing Spring Boot with Gatling
+]: <https://www.opsian.com/blog/performance-test-spring-boot-gatling/>
 
 
 ### Testes de Integração
