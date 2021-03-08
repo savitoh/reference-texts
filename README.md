@@ -19,7 +19,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Spring Batch]
 - [Spring Framework]
 - [Spring Security]
-- [Jackson]
 - [JPA/Hibernate]
 
 #### [Javascript]
@@ -42,7 +41,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 - [Testes de Unidade]
 
 
-[Databases]: <https://github.com/savitoh/Reference_Texts/tree/master/Databases>
+[Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
 [Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
@@ -56,7 +55,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, como fontes
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Spring Framework]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-framework>
 [Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
-[Jackson]: <https://github.com/savitoh/reference-texts/tree/master/Java#jackson>
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
