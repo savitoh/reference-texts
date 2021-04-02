@@ -2,6 +2,10 @@
 
 Repositório com links para artigos e tutoriais, para estudo e/ou referência na área de tecnogia.
 
+#### [Cloud Computing]
+ - [Cloud Providers]
+    - [Azure]
+
 #### [Databases]
 
 - [Public Streaming Datasets]
@@ -39,6 +43,10 @@ Repositório com links para artigos e tutoriais, para estudo e/ou referência na
 - [Testes de Integração]
 - [Testes de Unidade]
 
+
+[Cloud Computing]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-computing-links>
+[Cloud Providers]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-providers>
+[Azure]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#azure>
 
 [Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
 [Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
