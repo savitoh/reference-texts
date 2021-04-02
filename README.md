@@ -10,7 +10,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, para estudo
 
 - [CI/CD]
 - [Cloud Computing]
-- [Spring Boot com Docker]
 
 #### [Java]
 
@@ -48,7 +47,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, para estudo
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [CI/CD]: <https://github.com/savitoh/reference-texts/tree/master/DevOps#cicd>
 [Cloud Computing]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#cloud-computing>
-[Spring Boot com Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#spring-boot-com-docker>
 
 [Java]: <https://github.com/savitoh/reference-texts/tree/master/Java#java-links>
 [Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Java#concurrency>
