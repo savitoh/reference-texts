@@ -6,7 +6,7 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 
 | **Título**  |
 |---|
-| [Automatically deploy with Travis CI and Heroku] |
+|[Automatically deploy with Travis CI and Heroku]|
 |[Integração contínua e deploy automatizado no Heroku com Travis CI — Spring Boot API]|
 |[Continuous Integration of Java project with GitHub Actions]|
 |[Running Deployments with Github Actions]|
@@ -26,14 +26,6 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 | [Apostila do curso de DevOps da Caelum] |
 -----------
 
-### Spring Boot com Docker
-
-| **Título**  |
-|---|
-| [A Start to Finish Guide to Docker with Java] |
-| [Desenvolvimento do Spring Boot com Docker] |
-| [Spring Boot: Run and Build in Docker With JDK 11] |
-------------
 
 [Automatically deploy with Travis CI and Heroku]: <https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f>
 [Integração contínua e deploy automatizado no Heroku com Travis CI — Spring Boot API
@@ -45,8 +37,4 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 [Azure para desenvolvedores de nuvem do Java]: <https://docs.microsoft.com/pt-br/azure/java/?view=azure-java-stable>
 
 [Apostila do curso de DevOps da Caelum]: <https://github.com/caelum/apostila-devops>
-
-[A Start to Finish Guide to Docker with Java]: <https://stackify.com/guide-docker-java/>
-[Desenvolvimento do Spring Boot com Docker]: <https://imasters.com.br/back-end/desenvolvimento-do-spring-boot-com-docker>
-[Spring Boot: Run and Build in Docker With JDK 11]: <https://dzone.com/articles/spring-boot-run-and-build-in-docker>
 
