@@ -2,6 +2,11 @@
 
 Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, Kubernates, CI e CD...
 
+| **Título** |
+|---|
+| [Apostila do curso de DevOps da Caelum] |
+-----------
+
 ### CI/CD
 
 | **Título**  |
@@ -19,22 +24,17 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 | [Azure para desenvolvedores de nuvem do Java] |
 ------------
 
-### Devops
+[Apostila do curso de DevOps da Caelum]: <https://github.com/caelum/apostila-devops>
 
-| **Título** |
-|---|
-| [Apostila do curso de DevOps da Caelum] |
------------
-
-
+[comment]: # (CI/CD)
 [Automatically deploy with Travis CI and Heroku]: <https://medium.com/@felipeluizsoares/automatically-deploy-with-travis-ci-and-heroku-ddba1361647f>
 [Integração contínua e deploy automatizado no Heroku com Travis CI — Spring Boot API
 ]: <https://medium.com/@vitor.alves/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-deploy-automatizado-no-heroku-com-travis-ci-spring-boot-api-da96a32b93ab>
-
 [Continuous Integration of Java project with GitHub Actions]: <https://medium.com/faun/continuous-integration-of-java-project-with-github-actions-7a8a0e8246ef>
 [Running Deployments with Github Actions]: <https://4lex.nz/technical/2020/07/13/github-actions-heroku-sentry/>
 
+[comment]: # (Cloud Computing)
 [Azure para desenvolvedores de nuvem do Java]: <https://docs.microsoft.com/pt-br/azure/java/?view=azure-java-stable>
 
-[Apostila do curso de DevOps da Caelum]: <https://github.com/caelum/apostila-devops>
+
 
