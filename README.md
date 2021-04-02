@@ -75,8 +75,8 @@ Repositório com links para artigos e tutoriais, para estudo e/ou referência na
 [Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns>
 [Event-driven architecture / Server-Sent Events]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns#event-driven-architecture--server-sent-events>
 
-[Test Automation]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#test-automation>
-[Performance Testing]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#performance-testing>
-[Testes de Integração]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#testes-de-integra%C3%A7%C3%A3o>
-[Testes de Unidade]: <https://github.com/savitoh/reference-texts/tree/master/Test_Automation#testes-de-unidade>
+[Test Automation]: <https://github.com/savitoh/reference-texts/tree/master/Test%20Automation#test-automation>
+[Performance Testing]: <https://github.com/savitoh/reference-texts/tree/master/Test%20Automation#performance-testing>
+[Testes de Integração]: <https://github.com/savitoh/reference-texts/tree/master/Test%20Automation#testes-de-integra%C3%A7%C3%A3o>
+[Testes de Unidade]: <https://github.com/savitoh/reference-texts/tree/master/Test%20Automation#testes-de-unidade>
 
