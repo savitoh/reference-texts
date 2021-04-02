@@ -1,6 +1,6 @@
 ## DevOps Links
 
-Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, Kubernates, CI e CD...
+Seção dedicada a textos relacionados a área de DevOps.
 
 | **Título** |
 |---|
@@ -17,13 +17,7 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 |[Running Deployments with Github Actions]|
 ------------
 
-### Cloud Computing
-
-| **Título**  |
-|---|
-| [Azure para desenvolvedores de nuvem do Java] |
-------------
-
+[comment]: # (DevOps)
 [Apostila do curso de DevOps da Caelum]: <https://github.com/caelum/apostila-devops>
 
 [comment]: # (CI/CD)
@@ -32,9 +26,5 @@ Seção dedicada a textos relacionados a área de DevOps, dentre eles: Docker, K
 ]: <https://medium.com/@vitor.alves/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-deploy-automatizado-no-heroku-com-travis-ci-spring-boot-api-da96a32b93ab>
 [Continuous Integration of Java project with GitHub Actions]: <https://medium.com/faun/continuous-integration-of-java-project-with-github-actions-7a8a0e8246ef>
 [Running Deployments with Github Actions]: <https://4lex.nz/technical/2020/07/13/github-actions-heroku-sentry/>
-
-[comment]: # (Cloud Computing)
-[Azure para desenvolvedores de nuvem do Java]: <https://docs.microsoft.com/pt-br/azure/java/?view=azure-java-stable>
-
 
 

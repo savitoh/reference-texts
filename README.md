@@ -9,7 +9,6 @@ Repositório com links para artigos e tutoriais, utilizados por mim, para estudo
 #### [DevOps]
 
 - [CI/CD]
-- [Cloud Computing]
 
 #### [Java]
 
@@ -46,7 +45,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, para estudo
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [CI/CD]: <https://github.com/savitoh/reference-texts/tree/master/DevOps#cicd>
-[Cloud Computing]: <https://github.com/savitoh/Reference_Texts/blob/master/DevOps/README.md#cloud-computing>
+
 
 [Java]: <https://github.com/savitoh/reference-texts/tree/master/Java#java-links>
 [Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Java#concurrency>
@@ -56,6 +55,7 @@ Repositório com links para artigos e tutoriais, utilizados por mim, para estudo
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Spring Framework]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-framework>
 [Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
+
 
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
 [Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
