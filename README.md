@@ -1,6 +1,6 @@
 # Reference Texts
 
-Repositório com links para artigos e tutoriais, utilizados por mim, para estudo e/ou referência na área de desenvolvimento.
+Repositório com links para artigos e tutoriais, para estudo e/ou referência na área de tecnogia.
 
 #### [Databases]
 
