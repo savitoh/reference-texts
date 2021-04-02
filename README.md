@@ -5,6 +5,7 @@ Repositório com links para artigos e tutoriais, para estudo e/ou referência na
 #### [Cloud Computing]
  - [Cloud Providers]
     - [Azure]
+ - [Kubernates]
 
 #### [Databases]
 
@@ -46,6 +47,7 @@ Repositório com links para artigos e tutoriais, para estudo e/ou referência na
 
 [Cloud Computing]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-computing-links>
 [Cloud Providers]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-providers>
+[Kubernates]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#kubernates>
 [Azure]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#azure>
 
 [Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
