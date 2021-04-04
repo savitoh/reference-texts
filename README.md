@@ -1,6 +1,6 @@
 # Reference Texts
 
-Repositório com links para artigos e tutoriais, para estudo e/ou referência na área de tecnogia.
+Repositório com links para artigos e tutoriais para estudo e/ou referência na área de tecnologia.
 
 #### [Cloud Computing]
  - [Cloud Providers]
