@@ -22,6 +22,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 ### Docker
 | **Título**  |
 |---|
+| [10 best practices to build a Java container with Docker] |
 | [Spring Boot: Run and Build in Docker With JDK 11] |
 ------------
 
@@ -76,6 +77,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 [Java 8 concurrency basics]: <https://www.ibm.com/developerworks/java/library/j-jvmc2/index.html>
 
 [comment]: # (Docker)
+[10 best practices to build a Java container with Docker]: <https://snyk.io/blog/best-practices-to-build-java-containers-with-docker>
 [Spring Boot: Run and Build in Docker With JDK 11]: <https://dzone.com/articles/spring-boot-run-and-build-in-docker>
 
 
