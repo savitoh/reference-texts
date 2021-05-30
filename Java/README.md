@@ -42,6 +42,15 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 --------------
 
 
+### JVM/GraalVM
+
+|**Título**|
+|---|
+|[Understanding How Graal Works - a Java JIT Compiler Written in Java]|
+--------------
+
+
+
 ### Spring Batch
 
 |**Título** |
@@ -96,6 +105,9 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 [Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]: <https://blog.mimacom.com/java-8-dates-with-postgresql/>
 [Versioning and Auditing with Hibernate Envers]: <https://bytefish.de/blog/hibernate_envers_versioning_and_auditing/>
 
+
+[comment]: # (JVM/GraalVM)
+[Understanding How Graal Works - a Java JIT Compiler Written in Java]: <https://chrisseaton.com/truffleruby/jokerconf17/>
 
 [comment]: # (Spring Batch)
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
