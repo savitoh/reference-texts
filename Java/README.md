@@ -47,6 +47,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 |**Título**|
 |---|
 |[Understanding How Graal Works - a Java JIT Compiler Written in Java]|
+|[Quest to the OS: Java Native Memory]|
 --------------
 
 
@@ -108,6 +109,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 [comment]: # (JVM/GraalVM)
 [Understanding How Graal Works - a Java JIT Compiler Written in Java]: <https://chrisseaton.com/truffleruby/jokerconf17/>
+[Quest to the OS: Java Native Memory]: <https://blog.picnic.nl/quest-to-the-os-java-native-memory-5d3ef68ffc0a>
 
 [comment]: # (Spring Batch)
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
