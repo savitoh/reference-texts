@@ -7,8 +7,6 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 |**Título** |
 |---|
 |[Classic Computer Science Problems in Java]|
-|[Java Language and Virtual Machine Specifications]|
-|[Imergindo na JVM]|
 ------------
 
 ### Concurrency
@@ -46,11 +44,11 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 |**Título**|
 |---|
-|[Understanding How Graal Works - a Java JIT Compiler Written in Java]|
+|[Imergindo na JVM]|
+|[Java Language and Virtual Machine Specifications]|
 |[Quest to the OS: Java Native Memory]|
+|[Understanding How Graal Works - a Java JIT Compiler Written in Java]|
 --------------
-
-
 
 ### Spring Batch
 
@@ -80,8 +78,6 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 [comment]: # (Básico)
 [Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
-[Imergindo na JVM]: <https://otaviojava.gitbooks.io/imergindo-na-jvm/pt-br/index.html>
-[Java Language and Virtual Machine Specifications]: <https://docs.oracle.com/javase/specs/index.html>
 
 [comment]: # (Concurrency)
 [Functional-Style Callbacks Using Java 8's CompletableFuture]: <https://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture>
@@ -109,8 +105,10 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 
 [comment]: # (JVM/GraalVM)
-[Understanding How Graal Works - a Java JIT Compiler Written in Java]: <https://chrisseaton.com/truffleruby/jokerconf17/>
+[Imergindo na JVM]: <https://otaviojava.gitbooks.io/imergindo-na-jvm/pt-br/index.html>
+[Java Language and Virtual Machine Specifications]: <https://docs.oracle.com/javase/specs/index.html>
 [Quest to the OS: Java Native Memory]: <https://blog.picnic.nl/quest-to-the-os-java-native-memory-5d3ef68ffc0a>
+[Understanding How Graal Works - a Java JIT Compiler Written in Java]: <https://chrisseaton.com/truffleruby/jokerconf17/>
 
 [comment]: # (Spring Batch)
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
