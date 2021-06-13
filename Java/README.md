@@ -45,6 +45,16 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 |[Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure)]|
 --------------
 
+
+### Quarkus
+
+|**Título**|
+|---|
+|[A IO thread and a worker thread walk into a bar: a microbenchmark story]|
+|[Mutiny - Flow control and Back-pressure]|
+--------------
+
+
 ### Spring Batch
 
 |**Título** |
@@ -74,6 +84,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 [comment]: # (Básico)
 [Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
 
+
 [comment]: # (Concurrency)
 [Functional-Style Callbacks Using Java 8's CompletableFuture]: <https://www.infoq.com/articles/Functional-Style-Callbacks-Using-CompletableFuture>
 [Java 8 concurrency basics]: <https://www.ibm.com/developerworks/java/library/j-jvmc2/index.html>
@@ -102,13 +113,21 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 [Understanding How Graal Works - a Java JIT Compiler Written in Java]: <https://chrisseaton.com/truffleruby/jokerconf17/>
 [Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure)]: <https://dev.to/deepu105/visualizing-memory-management-in-jvm-java-kotlin-scala-groovy-clojure-19le>
 
+
+[comment]: # (Quarkus)
+[A IO thread and a worker thread walk into a bar: a microbenchmark story]: <https://quarkus.io/blog/io-thread-benchmark/>
+[Mutiny - Flow control and Back-pressure]: <https://quarkus.io/blog/mutiny-back-pressure/>
+
+
 [comment]: # (Spring Batch)
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
 [Spring Batch - Reference Documentation]: <https://docs.spring.io/spring-batch/docs/4.1.x/reference/html/index.html>
 
+
 [comment]: # (Spring Framework)
 [Spring Framework Documentation]: <https://docs.spring.io/spring/docs/current/spring-framework-reference/>
 [Servlet Container and Spring Framework]: <https://mossgreen.github.io/Servlet-Containers-and-Spring-Framework/>
+
 
 [comment]: # (Spring Security)
 [Spring Security Reference]: <https://docs.spring.io/spring-security/site/docs/current/reference/html5/>
