@@ -42,6 +42,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 |[Java Language and Virtual Machine Specifications]|
 |[Quest to the OS: Java Native Memory]|
 |[Understanding How Graal Works - a Java JIT Compiler Written in Java]|
+|[Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure)]|
 --------------
 
 ### Spring Batch
@@ -99,6 +100,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 [Java Language and Virtual Machine Specifications]: <https://docs.oracle.com/javase/specs/index.html>
 [Quest to the OS: Java Native Memory]: <https://blog.picnic.nl/quest-to-the-os-java-native-memory-5d3ef68ffc0a>
 [Understanding How Graal Works - a Java JIT Compiler Written in Java]: <https://chrisseaton.com/truffleruby/jokerconf17/>
+[Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure)]: <https://dev.to/deepu105/visualizing-memory-management-in-jvm-java-kotlin-scala-groovy-clojure-19le>
 
 [comment]: # (Spring Batch)
 [Spring Batch in Action]: <https://livebook.manning.com/book/spring-batch-in-action/table-of-contents/39>
