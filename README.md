@@ -3,8 +3,10 @@
 Repositório com links para artigos e tutoriais para estudo e/ou referência na área de tecnologia.
 
 #### [Cloud Computing]
+
  - [Cloud Providers]
     - [Azure]
+ - [Docker] 
  - [Kubernates]
 
 #### [Databases]
@@ -19,7 +21,6 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 - [Básico]
 - [Concurrency]
-- [Docker]
 - [JPA/Hibernate]
 - [JVM/GraalVM]
 - [Spring Batch]
@@ -48,6 +49,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 [Cloud Computing]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-computing-links>
 [Cloud Providers]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-providers>
+[Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/Cloud%20Computing/#docker>
 [Kubernates]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#kubernates>
 [Azure]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#azure>
 
@@ -61,7 +63,6 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Java]: <https://github.com/savitoh/reference-texts/tree/master/Java#java-links>
 [Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Java#concurrency>
 [Básico]: <https://github.com/savitoh/reference-texts/tree/master/Java#b%C3%A1sico>
-[Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/Java/#docker>
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 [JVM/GraalVM]: <https://github.com/savitoh/reference-texts/tree/master/Java#jvmgraalvm>
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
