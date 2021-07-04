@@ -26,6 +26,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 |[Awesome Spring Specification How-to]|
 |[Consultas dinâmicas e typesafe em JPA 2.0]|
 |[How to add a new constraint to Hibernate Validator in a few simple steps]|
+|[Implementing multitenancy architecture: Spring Boot, JPA, Hibernate, Flyway]|
 |[Java Persistence with Hibernate, Second Edition]|
 |[SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE]|
 |[Using Java 8 Dates with Spring JPA and PostgreSQL for Custom Queries]|
@@ -97,6 +98,8 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 ]: <https://www.ibm.com/developerworks/br/java/library/j-typesafejpa/index.html>
 [How to add a new constraint to Hibernate Validator in a few simple steps
 ]: <https://in.relation.to/2018/01/04/adding-new-constraint-to-engine/>
+[Implementing multitenancy architecture: Spring Boot, JPA, Hibernate, Flyway
+]: <https://medium.com/deviniti-technology-driven-blog/implementing-multitenancy-architecture-spring-boot-jpa-hibernate-flyway-8fb19b312a10>
 [Java Persistence with Hibernate, Second Edition]: <https://www.manning.com/books/java-persistence-with-hibernate-second-edition?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASABEgKoGvD_BwE>
 [SPRING DATA JPA PROJECTIONS – 5 WAYS TO RETURN CUSTOM RESPONSE
 ]: <https://www.bytestree.com/spring/spring-data-jpa-projections-5-ways-return-custom-object>
