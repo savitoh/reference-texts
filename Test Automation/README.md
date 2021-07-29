@@ -26,7 +26,8 @@ Seção dedicada a textos sobre automação de testes.
 |---|
 | [Testing Spring MVC Web Controllers with @WebMvcTest] |
 | [A Unit Testing Practitioner's Guide to Everyday Mockito]|
-| [Spring Data JPA Repository Testing using Spring Boot @DataJpaTest] |
+| [Spring Data JPA Repository Testing using Spring Boot @DataJpaTest]|
+| [How to Create a Test Data Builder]|
 | [How to test services, endpoints, and repositories in Spring Boot]|
 | [Modern Best Practices for Testing in Java]|
 ------------
@@ -39,5 +40,6 @@ Seção dedicada a textos sobre automação de testes.
 [HOWTO: Write Spring Boot integration tests with a ‘real’ database]: <https://rieckpil.de/howto-write-spring-boot-integration-tests-with-a-real-database/>
 [Spring Boot 2 CRUD REST APIs Integration Testing
 ]: <https://www.javaguides.net/2018/09/spring-boot-2-rest-apis-integration-testing.html>
+[How to Create a Test Data Builder]: <https://www.arhohuttunen.com/test-data-builders/>
 [How to test services, endpoints, and repositories in Spring Boot]: <https://www.freecodecamp.org/news/unit-testing-services-endpoints-and-repositories-in-spring-boot-4b7d9dc2b772/>
 [Modern Best Practices for Testing in Java]: <https://phauer.com/2019/modern-best-practices-testing-java/>
