@@ -35,6 +35,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 #### [Kotlin]
 
+- [Basic]
 - [Kotlin Concurrency]
 
 #### [Software Engineering / Architecture / Design Patterns]
@@ -78,6 +79,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 [Kotlin]: <https://github.com/savitoh/Reference_Texts/tree/master/Kotlin>
 [Kotlin Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Kotlin#kotlin-concurrency>
+[Basic]: <https://github.com/savitoh/reference-texts/tree/master/Kotlin#basic>
 
 [Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns>
 [Event-driven architecture / Server-Sent Events]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns#event-driven-architecture--server-sent-events>
