@@ -22,7 +22,6 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Básico]
 - [Concurrency]
 - [JPA/Hibernate]
-- [JVM/GraalVM]
 - [Quarkus]
 - [Spring Batch]
 - [Spring Framework]
@@ -32,6 +31,11 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 - [Ferramentas]
 - [Web Components]
+
+#### [JVM]
+
+- [GraalVM]
+- [Profiling]
 
 #### [Kotlin]
 
@@ -79,6 +83,13 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
 [Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
 [Web Components]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#web-components>
+
+
+[comment]: # (JVM)
+[JVM]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM>
+[GraalVM]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM#graalvm>
+[Profiling]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM#profiling>
+
 
 [Kotlin]: <https://github.com/savitoh/Reference_Texts/tree/master/Kotlin>
 [Kotlin Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Kotlin#kotlin-concurrency>
