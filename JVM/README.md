@@ -4,12 +4,19 @@ Section dedicated to JVM related texts.
 
 |**Título**|
 |---|
-|[Imergindo na JVM]|
 |[Java Language and Virtual Machine Specifications]|
 |[Quest to the OS: Java Native Memory]|
 |[Release memory back to the OS with Java 11]|
 |[Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure)]|
 --------------
+
+
+### Basic
+|**Título** |
+|---|
+|[Imergindo na JVM]|
+|[JVM Warmup]|
+------------
 
 
 ### GraalVM
@@ -33,6 +40,10 @@ Section dedicated to JVM related texts.
 [Quest to the OS: Java Native Memory]: <https://blog.picnic.nl/quest-to-the-os-java-native-memory-5d3ef68ffc0a>
 [Release memory back to the OS with Java 11]: <https://thomas.preissler.me/blog/2021/05/02/release-memory-back-to-the-os-with-java-11.html>
 [Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure)]: <https://dev.to/deepu105/visualizing-memory-management-in-jvm-java-kotlin-scala-groovy-clojure-19le>
+
+
+[comment]: # (Basic)
+[JVM Warmup]: <https://tech.oyorooms.com/jvm-warmup-6dccee485dc4>
 
 
 [comment]: # (Profiling)

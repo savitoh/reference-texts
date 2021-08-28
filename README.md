@@ -33,7 +33,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Web Components]
 
 #### [JVM]
-
+- [Basic](https://github.com/savitoh/Reference_Texts/tree/master/JVM#basic)
 - [GraalVM]
 - [Profiling]
 
