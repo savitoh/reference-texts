@@ -6,11 +6,15 @@ Seção dedicada a textos sobre automação de testes.
 ### Performance Testing
 | **Título**  |
 |---|
+|[OAuth 2.0 Authentication With Gatling Using Bearer Token]|
 |[Performance Testing Spring Boot with Gatling]|
 ------------
 
 
-[Performance Testing Spring Boot with Gatling
+[comment]: # (Performance Testing)
+[OAuth 2.0 Authentication With Gatling Using Bearer Token
+]: <https://devqa.io/gatling-oath2-authentication/>
+[Performance Testing Spring Boot with Gatling 
 ]: <https://www.opsian.com/blog/performance-test-spring-boot-gatling/>
 
 
@@ -20,6 +24,7 @@ Seção dedicada a textos sobre automação de testes.
 |[HOWTO: Write Spring Boot integration tests with a ‘real’ database] |
 |[Spring Boot 2 CRUD REST APIs Integration Testing]|
 ------------
+
 
 ### Testes de Unidade
 | **Título**  |
@@ -31,6 +36,8 @@ Seção dedicada a textos sobre automação de testes.
 | [How to test services, endpoints, and repositories in Spring Boot]|
 | [Modern Best Practices for Testing in Java]|
 ------------
+
+
 [Spring Data JPA Repository Testing using Spring Boot @DataJpaTest
 ]: <https://www.javaguides.net/2018/09/spring-data-jpa-repository-testing-using-spring-boot-datajpatest.html>
 [A Unit Testing Practitioner's Guide to Everyday Mockito
