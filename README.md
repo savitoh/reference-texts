@@ -35,6 +35,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 #### [JVM]
 - [Basic](https://github.com/savitoh/Reference_Texts/tree/master/JVM#basic)
 - [GraalVM]
+- [Memory]
 - [Profiling]
 
 #### [Kotlin]
@@ -88,6 +89,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [comment]: # (JVM)
 [JVM]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM>
 [GraalVM]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM#graalvm>
+[Memory]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM#memory>
 [Profiling]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM#profiling>
 
 
