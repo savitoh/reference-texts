@@ -33,6 +33,13 @@ Section dedicated to JVM related texts.
 ------------
 
 
+### Optimization
+|**Título** |
+|---|
+|[Optimizing Java applications for Cloud Run]|
+------------
+
+
 ### Profiling
 |**Título** |
 |---|
@@ -60,6 +67,10 @@ Section dedicated to JVM related texts.
 
 [comment]: # (Memory)
 [Gerenciamento de Memória no Java]: <https://engineering.axur.com/2020/12/17/gerenciamento-memoria-java-part1.html>
+
+
+[comment]: # (Optimization)
+[Optimizing Java applications for Cloud Run]: <https://cloud.google.com/run/docs/tips/java>
 
 
 [comment]: # (Profiling)
