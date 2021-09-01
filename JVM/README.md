@@ -36,7 +36,9 @@ Section dedicated to JVM related texts.
 ### Optimization
 |**Título** |
 |---|
+|[Increasing performance of Java AWS Lambda functions using tiered compilation]|
 |[Optimizing Java applications for Cloud Run]|
+|[Startup, containers & Tiered Compilation]|
 ------------
 
 
@@ -70,7 +72,11 @@ Section dedicated to JVM related texts.
 
 
 [comment]: # (Optimization)
+[Increasing performance of Java AWS Lambda functions using tiered compilation
+]: <https://aws.amazon.com/blogs/compute/increasing-performance-of-java-aws-lambda-functions-using-tiered-compilation/>
 [Optimizing Java applications for Cloud Run]: <https://cloud.google.com/run/docs/tips/java>
+[Startup, containers & Tiered Compilation
+]: <https://jpbempel.github.io/2020/05/22/startup-containers-tieredcompilation.html>
 
 
 [comment]: # (Profiling)
