@@ -7,6 +7,7 @@ Seção dedicada a textos sobre automação de testes.
 | **Título**  |
 |---|
 |[OAuth 2.0 Authentication With Gatling Using Bearer Token]|
+|[Load Testing with Gatling - The Complete Guide]|
 |[Performance Testing Spring Boot with Gatling]|
 ------------
 
@@ -14,6 +15,8 @@ Seção dedicada a textos sobre automação de testes.
 [comment]: # (Performance Testing)
 [OAuth 2.0 Authentication With Gatling Using Bearer Token
 ]: <https://devqa.io/gatling-oath2-authentication/>
+[Load Testing with Gatling - The Complete Guide
+]: <https://www.james-willett.com/gatling-load-testing-complete-guide>
 [Performance Testing Spring Boot with Gatling 
 ]: <https://www.opsian.com/blog/performance-test-spring-boot-gatling/>
 
