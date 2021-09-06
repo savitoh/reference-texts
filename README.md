@@ -26,6 +26,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Spring Batch]
 - [Spring Framework]
 - [Spring Security]
+- [Spring WebFlux]
 
 #### [Javascript]
 
@@ -80,6 +81,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Spring Framework]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-framework>
 [Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
+[Spring WebFlux]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-webflux>
 
 
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>

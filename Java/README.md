@@ -69,6 +69,14 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 ------------
 
 
+### Spring WebFlux
+
+|**Título** |
+|---|
+|[Is Spring WebFlux a Myth?]|
+------------
+
+
 [comment]: # (Básico)
 [Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
 
@@ -115,3 +123,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 [Spring Security Reference]: <https://docs.spring.io/spring-security/site/docs/current/reference/html5/>
 [Spring Security: Authentication and Authorization In-Depth]: <https://www.marcobehler.com/guides/spring-security>
 [Uma introdução ao OAuth 2]: <https://www.digitalocean.com/community/tutorials/uma-introducao-ao-oauth-2-pt>
+
+
+[comment]: # (Spring WebFlux)
+[Is Spring WebFlux a Myth?]: <https://blog.devgenius.io/is-spring-webflux-a-myth-4526c2f92413>
