@@ -73,6 +73,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 |**Título** |
 |---|
+|[Harden Performance of REST calls using Spring WebFlux]|
 |[Is Spring WebFlux a Myth?]|
 ------------
 
@@ -126,4 +127,5 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 
 [comment]: # (Spring WebFlux)
+[Harden Performance of REST calls using Spring WebFlux]: <https://www.steadybit.com/blog/harden-performance-rest-calls-spring-webflux>
 [Is Spring WebFlux a Myth?]: <https://blog.devgenius.io/is-spring-webflux-a-myth-4526c2f92413>
