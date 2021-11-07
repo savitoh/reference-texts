@@ -5,12 +5,15 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 
 | **Título**  |
 |---|
+|[API Stylebook]|
 |[Apostila do curso Microservices com Spring Cloud da Caelum]|
 |[Best Practices for Designing a Pragmatic RESTful API]|
 |[Design patterns implemented in Java]|
 |[Refactoring Guru]|
 |[Zalando RESTful API and Event Guidelines]|
 ------------
+
+[API Stylebook]: <http://apistylebook.com/>
 
 [Apostila do curso Microservices com Spring Cloud da Caelum]: <https://github.com/caelum/apostila-microservices-com-spring-cloud>
 
