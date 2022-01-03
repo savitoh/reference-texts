@@ -8,6 +8,7 @@ Seção dedicada a textos relacionados a Linguagem Kotlin.
 |**Título** |
 |---|
 |[Build Function Chains Using Composition in Kotlin]|
+|[Values, Records, and Primitives (Oh My!) - Kotlin & Java's 'Valuable' Future]|
 ------------
 
 ### Concurrency
@@ -23,6 +24,7 @@ Seção dedicada a textos relacionados a Linguagem Kotlin.
 
 [comment]: # (Basic)
 [Build Function Chains Using Composition in Kotlin]: <https://siddroid.com/post/kotlin/build-function-chains-using-composition-in-kotlin/>
+[Values, Records, and Primitives (Oh My!) - Kotlin & Java's 'Valuable' Future]: <https://realjenius.com/2021/05/09/value-classes/>
 
 
 
