@@ -2,9 +2,23 @@
 
 Seção dedicada a textos relacionados a Banco de Dados.
 
+### Modeling
+| **Title**  |
+|---|
+|[Investment Portfolio Data Modeling]|
+------------
+
+### Public Streaming Datasets
+
+| **Title**  |
+|---|
+|[Awesome Public Streaming Datasets]|
+|[Where can I find public or free real-time or streaming data sources?]|
+------------
+
 ### Relational Database
 
-| **Título**  |
+| **Title**  |
 |---|
 |[Catálogo de Code Smells ORM]|
 |[Designing Highly Scalable Database Architectures]|
@@ -18,6 +32,15 @@ Seção dedicada a textos relacionados a Banco de Dados.
 ------------
 
 
+[coment]: # (Modeling)
+[Investment Portfolio Data Modeling]: <https://www.datastax.com/learn/data-modeling-by-example/investment-data-model#conceptual>
+
+
+[comment]: # (Public Streaming Datasets)
+[Awesome Public Streaming Datasets]: <https://github.com/ColinEberhardt/awesome-public-streaming-datasets>
+[Where can I find public or free real-time or streaming data sources?]: <https://www.quora.com/Where-can-I-find-public-or-free-real-time-or-streaming-data-sources>
+
+
 [comment]: # (Relational Database)
 [Catálogo de Code Smells ORM]: <https://github.com/spgroup/ORM-Smells-Catalog>
 [Designing Highly Scalable Database Architectures]: <https://www.red-gate.com/simple-talk/databases/sql-server/performance-sql-server/designing-highly-scalable-database-architectures/>
@@ -29,15 +52,3 @@ Seção dedicada a textos relacionados a Banco de Dados.
 [Performance impact of idle PostgreSQL connections]: <https://aws.amazon.com/blogs/database/performance-impact-of-idle-postgresql-connections/>
 [Use The Index, Luke]:<https://use-the-index-luke.com/>
 [Why You Should Design Your Database to Optimise for Statistics]: <https://blog.jooq.org/why-you-should-design-your-database-to-optimise-for-statistics/>
-
-
-### Public Streaming Datasets
-
-| **Título**  |
-|---|
-|[Awesome Public Streaming Datasets]|
-|[Where can I find public or free real-time or streaming data sources?]|
-------------
-
-[Awesome Public Streaming Datasets]: <https://github.com/ColinEberhardt/awesome-public-streaming-datasets>
-[Where can I find public or free real-time or streaming data sources?]: <https://www.quora.com/Where-can-I-find-public-or-free-real-time-or-streaming-data-sources>
