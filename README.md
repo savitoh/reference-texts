@@ -11,6 +11,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 #### [Databases]
 - [Modeling]
+- [Performance]
 - [Public Streaming Datasets]
 - [Relational Database]
 
@@ -63,10 +64,13 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Kubernates]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#kubernates>
 [Azure]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#azure>
 
+
+
 [comment]: # (Database)
 [Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
 [Modeling]: <https://github.com/savitoh/reference-texts/tree/master/Databases#modeling>
 [Relational Database]: <https://github.com/savitoh/reference-texts/tree/master/Databases#relational-database>
+[Performance]: <https://github.com/savitoh/reference-texts/tree/master/Databases#performance>
 [Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
 
 
