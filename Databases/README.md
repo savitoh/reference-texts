@@ -32,6 +32,7 @@ Seção dedicada a textos relacionados a Banco de Dados.
 |[Catálogo de Code Smells ORM]|
 |[How to Find the Longest Consecutive Series of Events in SQL]|
 |[Memoization in Cost-based Optimizers]|
+|[Postgres Indexes for Newbies]|
 |[Use The Index, Luke]|
 |[Why You Should Design Your Database to Optimise for Statistics]|
 ------------
@@ -62,5 +63,6 @@ Seção dedicada a textos relacionados a Banco de Dados.
 [Catálogo de Code Smells ORM]: <https://github.com/spgroup/ORM-Smells-Catalog>
 [How Your SQL Server Data Type Choices Can Affect Database Performance]: <https://www.sentryone.com/white-papers/data-type-choice-affects-database-performance>
 [Memoization in Cost-based Optimizers]: <https://www.querifylabs.com/blog/memoization-in-cost-based-optimizers>
+[Postgres Indexes for Newbies]: <https://blog.crunchydata.com/blog/postgres-indexes-for-newbies>
 [Use The Index, Luke]:<https://use-the-index-luke.com/>
 [Why You Should Design Your Database to Optimise for Statistics]: <https://blog.jooq.org/why-you-should-design-your-database-to-optimise-for-statistics/>
