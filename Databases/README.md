@@ -5,6 +5,7 @@ Seção dedicada a textos relacionados a Banco de Dados.
 ### Modeling
 | **Title**  |
 |---|
+|[Database Design: Using Natural Keys]|
 |[Designing Highly Scalable Database Architectures]|
 |[Investment Portfolio Data Modeling]|
 ------------
@@ -40,6 +41,7 @@ Seção dedicada a textos relacionados a Banco de Dados.
 
 
 [coment]: # (Modeling)
+[Database Design: Using Natural Keys]: <https://www.endpointdev.com/blog/2021/03/database-design-using-natural-keys/>
 [Designing Highly Scalable Database Architectures]: <https://www.red-gate.com/simple-talk/databases/sql-server/performance-sql-server/designing-highly-scalable-database-architectures/>
 [Investment Portfolio Data Modeling]: <https://www.datastax.com/learn/data-modeling-by-example/investment-data-model#conceptual>
 
