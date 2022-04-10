@@ -10,6 +10,7 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 |[Best Practices for Designing a Pragmatic RESTful API]|
 |[Design patterns implemented in Java]|
 |[Refactoring Guru]|
+|[Source Making]|
 |[Zalando RESTful API and Event Guidelines]|
 ------------
 
@@ -22,6 +23,8 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 [Design patterns implemented in Java]: <https://java-design-patterns.com/>
 
 [Refactoring Guru]: <https://refactoring.guru/>
+
+[Source Making]: <https://sourcemaking.com/>
 
 [Zalando RESTful API and Event Guidelines]: <https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_guidelines>
 
