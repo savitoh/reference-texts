@@ -2,6 +2,10 @@
 
 Repositório com links para artigos e tutoriais para estudo e/ou referência na área de tecnologia.
 
+
+#### [Algorithms and Data Structures]
+ - [Data Structures]
+
 #### [Cloud Computing]
 
  - [Cloud Providers]
@@ -58,6 +62,14 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Testes de Unidade]
 
 
+
+[comment]: # (Algorithms and Data Structures)
+[Algorithms and Data Structures]: <https://github.com/savitoh/reference-texts/tree/master/Algorithms%20and%20Data%20Structures#algorithms-and-data-structures-links>
+[Data Structures]: <https://github.com/savitoh/reference-texts/tree/master/Algorithms%20and%20Data%20Structures#data-structures>
+
+
+
+[comment]: # (Cloud Computing)
 [Cloud Computing]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-computing-links>
 [Cloud Providers]: <https://github.com/savitoh/reference-texts/tree/master/Cloud%20Computing#cloud-providers>
 [Docker]: <https://github.com/savitoh/Reference_Texts/blob/master/Cloud%20Computing/#docker>
@@ -74,8 +86,10 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
 
 
+
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [CI/CD]: <https://github.com/savitoh/reference-texts/tree/master/DevOps#cicd>
+
 
 
 [Java]: <https://github.com/savitoh/reference-texts/tree/master/Java#java-links>
@@ -90,9 +104,11 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Spring WebFlux]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-webflux>
 
 
+
 [JavaScript]:<https://github.com/savitoh/Reference_Texts/tree/master/JavaScript>
 [Ferramentas]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#ferramentas>
 [Web Components]: <https://github.com/savitoh/Reference_Texts/tree/master/JavaScript#web-components>
+
 
 
 [comment]: # (JVM)
@@ -103,13 +119,17 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Profiling]: <https://github.com/savitoh/Reference_Texts/tree/master/JVM#profiling>
 
 
+
 [comment]: # (Kotlin)
 [Kotlin]: <https://github.com/savitoh/Reference_Texts/tree/master/Kotlin>
 [Basic]: <https://github.com/savitoh/reference-texts/tree/master/Kotlin#basic>
 
 
+
 [Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns>
 [Event-driven architecture / Server-Sent Events]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns#event-driven-architecture--server-sent-events>
+
+
 
 [Test Automation]: <https://github.com/savitoh/reference-texts/tree/master/Test%20Automation#test-automation>
 [Performance Testing]: <https://github.com/savitoh/reference-texts/tree/master/Test%20Automation#performance-testing>
