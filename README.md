@@ -29,7 +29,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 #### [Java]
 
-- [Básico]
+- [Basic]
 - [Concurrency]
 - [JPA/Hibernate]
 - [Quarkus]
@@ -103,9 +103,10 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 
 
+[comment]: # (Java)
 [Java]: <https://github.com/savitoh/reference-texts/tree/master/Java#java-links>
+[Basic]: <https://github.com/savitoh/reference-texts/tree/master/Java#basic>
 [Concurrency]: <https://github.com/savitoh/reference-texts/tree/master/Java#concurrency>
-[Básico]: <https://github.com/savitoh/reference-texts/tree/master/Java#b%C3%A1sico>
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 [JVM/GraalVM]: <https://github.com/savitoh/reference-texts/tree/master/Java#jvmgraalvm>
 [Quarkus]: <https://github.com/savitoh/reference-texts/tree/master/Java#quarkus> 

@@ -1,17 +1,17 @@
 ## Java Links
 
-Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
+Section with Links about Java
 
-### Básico
+### Basic
 
-|**Título** |
+|**Title** |
 |---|
 |[Classic Computer Science Problems in Java]|
 ------------
 
 ### Concurrency
 
-|**Título** |
+|**Title** |
 |---|
 |[Functional-Style Callbacks Using Java 8's CompletableFuture]|
 |[Java 8 concurrency basics]|
@@ -20,7 +20,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### JPA/Hibernate
 
-|**Título**|
+|**Title**|
 |---|
 |[Audit entities with Hibernate Envers]|
 |[Awesome Spring Specification How-to]|
@@ -36,7 +36,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### Quarkus
 
-|**Título**|
+|**Title**|
 |---|
 |[A IO thread and a worker thread walk into a bar: a microbenchmark story]|
 |[Mutiny - Flow control and Back-pressure]|
@@ -45,7 +45,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### Spring Batch
 
-|**Título** |
+|**Title** |
 |---|
 |[Spring Batch in Action]|
 |[Spring Batch - Reference Documentation]|
@@ -53,7 +53,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### Spring Framework
 
-|**Título**|
+|**Title**|
 |---|
 |[Spring Framework Documentation]|
 |[Servlet Container and Spring Framework]|
@@ -61,7 +61,7 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### Spring Security
 
-|**Título** |
+|**Title** |
 |---|
 |[Spring Security Reference]|
 |[Spring Security: Authentication and Authorization In-Depth]|
@@ -70,14 +70,14 @@ Seção dedicada a textos relacionados a Linguagem Java e seu ecossistema.
 
 ### Spring WebFlux
 
-|**Título** |
+|**Title** |
 |---|
 |[Harden Performance of REST calls using Spring WebFlux]|
 |[Is Spring WebFlux a Myth?]|
 ------------
 
 
-[comment]: # (Básico)
+[comment]: # (Basic)
 [Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
 
 
