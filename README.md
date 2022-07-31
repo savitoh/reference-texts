@@ -111,7 +111,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [JPA/Hibernate]: <https://github.com/savitoh/reference-texts/tree/master/Java#jpahibernate>
 [JVM/GraalVM]: <https://github.com/savitoh/reference-texts/tree/master/Java#jvmgraalvm>
 [Quarkus]: <https://github.com/savitoh/reference-texts/tree/master/Java#quarkus> 
-[Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-projects>
+[Spring Projects]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-projects>
 [Spring Batch]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-batch>
 [Spring Framework]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-framework>
 [Spring Security]: <https://github.com/savitoh/reference-texts/tree/master/Java#spring-security>
