@@ -5,20 +5,14 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 
 | **Título**  |
 |---|
-|[API Stylebook]|
 |[Apostila do curso Microservices com Spring Cloud da Caelum]|
-|[Best Practices for Designing a Pragmatic RESTful API]|
 |[Design patterns implemented in Java]|
 |[Refactoring Guru]|
 |[Source Making]|
-|[Zalando RESTful API and Event Guidelines]|
 ------------
 
-[API Stylebook]: <http://apistylebook.com/>
 
 [Apostila do curso Microservices com Spring Cloud da Caelum]: <https://github.com/caelum/apostila-microservices-com-spring-cloud>
-
-[Best Practices for Designing a Pragmatic RESTful API]: <https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api>
 
 [Design patterns implemented in Java]: <https://java-design-patterns.com/>
 
@@ -26,7 +20,7 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 
 [Source Making]: <https://sourcemaking.com/>
 
-[Zalando RESTful API and Event Guidelines]: <https://opensource.zalando.com/restful-api-guidelines/#_zalando_restful_api_and_event_guidelines>
+
 
 ### Event-driven architecture / Server-Sent Events
 
@@ -40,7 +34,11 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 ------------
 
 [A Great Day Out With... Apache Kafka]: <https://a-great-day-out-with.github.io/kafka.html>
+
 [A Reference Architecture for Responsive Asynchronous Task Execution]: <https://medium.com/event-driven-utopia/a-reference-architecture-for-responsive-asynchronous-task-execution-783bd2a1ed8b>
+
 [Building a tool to monitor real-time behavior of Wikipedia users]: <https://medium.com/apache-pinot-developer-blog/analyzing-wikipedia-in-real-time-with-apache-kafka-and-pinot-4b4e5e36936b>
+
 [CHAPTER 5. DEVELOPING REACTIVE APPLICATIONS USING SPRING BOOT WITH ECLIPSE VERT.X]: <https://access.redhat.com/documentation/en-us/red_hat_support_for_spring_boot/2.2/html/spring_boot_runtime_guide/developing-reactive-applications-using-spring-boot-vertx_spring-boot#server-sent-events_spring-boot>
+
 [Server-Sent Events Using Spring WebFlux and Reactive Kafka]: <https://medium.com/egen/server-sent-events-using-spring-webflux-and-reactive-kafka-1a7ddbca4f5d>

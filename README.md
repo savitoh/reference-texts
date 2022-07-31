@@ -6,6 +6,10 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 #### [Algorithms and Data Structures]
  - [Data Structures]
 
+#### [API]
+ - [Design]
+ - [Security]
+
 #### [Cloud Computing]
 
  - [Cloud Providers]
@@ -60,6 +64,13 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Performance Testing]
 - [Testes de Integração]
 - [Testes de Unidade]
+
+
+
+[comment]: # (API)
+[API]: <https://github.com/savitoh/reference-texts/tree/master/API#api-links>
+[Design]: <https://github.com/savitoh/reference-texts/tree/master/API#Design>
+[Security]: <https://github.com/savitoh/reference-texts/tree/master/API#security>
 
 
 
