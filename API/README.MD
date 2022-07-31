@@ -17,6 +17,7 @@ Section with Links about APIs
 | **Title**  |
 |---|
 |[Best practices for REST API security: Authentication and authorization]|
+|[Uma introdução ao OAuth 2]|
 ------------
 
 
@@ -32,3 +33,5 @@ Section with Links about APIs
 
 [comment]: # (Security)
 [Best practices for REST API security: Authentication and authorization]: <https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/>
+
+[Uma introdução ao OAuth 2]: <https://www.digitalocean.com/community/tutorials/uma-introducao-ao-oauth-2-pt>
