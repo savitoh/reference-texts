@@ -43,7 +43,9 @@ Section with Links about Java
 --------------
 
 
-### Spring Batch
+### Spring Projects
+
+#### Spring Batch
 
 |**Title** |
 |---|
@@ -51,7 +53,7 @@ Section with Links about Java
 |[Spring Batch - Reference Documentation]|
 ------------
 
-### Spring Framework
+#### Spring Framework
 
 |**Title**|
 |---|
@@ -59,7 +61,7 @@ Section with Links about Java
 |[Servlet Container and Spring Framework]|
 ------------
 
-### Spring Security
+#### Spring Security
 
 |**Title** |
 |---|
@@ -68,7 +70,7 @@ Section with Links about Java
 ------------
 
 
-### Spring WebFlux
+#### Spring WebFlux
 
 |**Title** |
 |---|
