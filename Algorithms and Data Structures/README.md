@@ -3,6 +3,14 @@
 Section with Links about Algorithms and Data Structures.
 
 
+### Algorithms
+| **Title**  |
+|---|
+| [A General Theory of Reactivity] |
+------------
+
+
+
 ### Data Structures
 | **Title**  |
 |---|
@@ -10,5 +18,11 @@ Section with Links about Algorithms and Data Structures.
 ------------
 
 
+
+[comment]: # (Algorithms)
+[A General Theory of Reactivity]: <https://github.com/kriskowal/gtor>
+
+
+
 [comment]: # (Data Structures)
-[Implementing Hash Tables in C]: <https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1> 
+[Implementing Hash Tables in C]: <https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1>
