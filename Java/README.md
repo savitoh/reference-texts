@@ -8,6 +8,7 @@ Section with Links about Java
 |---|
 |[A closer look at the Java 11 HTTP Client]|
 |[Classic Computer Science Problems in Java]|
+|[Local Variable Type Inference]|
 ------------
 
 ### Concurrency
@@ -83,6 +84,7 @@ Section with Links about Java
 [comment]: # (Basic)
 [A closer look at the Java 11 HTTP Client]: <https://golb.hplar.ch/2019/01/java-11-http-client.html>
 [Classic Computer Science Problems in Java]: <https://www.manning.com/books/classic-computer-science-problems-in-java?utm_source=google&utm_medium=cpc&utm_campaign=dynamicremarketing&gclid=EAIaIQobChMIlLjn8buk7gIVSQ65Bh0YrAO6EAEYASACEgIjjfD_BwE>
+[Local Variable Type Inference]: <https://openjdk.org/projects/amber/guides/lvti-faq>
 
 
 [comment]: # (Concurrency)
