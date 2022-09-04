@@ -18,6 +18,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
  - [Kubernates]
 
 #### [Databases]
+- [Index]
 - [Modeling]
 - [Performance]
 - [Public Streaming Datasets]
@@ -92,6 +93,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 [comment]: # (Database)
 [Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
+[Index]: <https://github.com/savitoh/reference-texts/tree/master/Databases#index>
 [Modeling]: <https://github.com/savitoh/reference-texts/tree/master/Databases#modeling>
 [Relational Database]: <https://github.com/savitoh/reference-texts/tree/master/Databases#relational-database>
 [Performance]: <https://github.com/savitoh/reference-texts/tree/master/Databases#performance>

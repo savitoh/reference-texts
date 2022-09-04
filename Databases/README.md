@@ -1,6 +1,17 @@
 ## Databases Links
 
-Seção dedicada a textos relacionados a Banco de Dados.
+Section with texts about DataBase
+
+
+### Index
+| **Title**  |
+|---|
+|[Discovering the Computer Science Behind Postgres Indexes]|
+|[Postgres Indexes for Newbies]|
+|[Use The Index, Luke]|
+------------
+
+
 
 ### Modeling
 | **Title**  |
@@ -11,33 +22,42 @@ Seção dedicada a textos relacionados a Banco de Dados.
 |[Investment Portfolio Data Modeling]|
 ------------
 
+
+
 ### Performance
 | **Title** |
 |---|
 |[How Your SQL Server Data Type Choices Can Affect Database Performance]|
 |[How can data-type choice affect performance?]|
 |[Performance impact of idle PostgreSQL connections]|
+|[Why You Should Design Your Database to Optimise for Statistics]|
 -------------
 
-### Public Streaming Datasets
 
+
+### Public Streaming Datasets
 | **Title**  |
 |---|
 |[Awesome Public Streaming Datasets]|
 |[Where can I find public or free real-time or streaming data sources?]|
 ------------
 
-### Relational Database
 
+
+### Relational Database
 | **Title**  |
 |---|
 |[Catálogo de Code Smells ORM]|
 |[How to Find the Longest Consecutive Series of Events in SQL]|
 |[Memoization in Cost-based Optimizers]|
-|[Postgres Indexes for Newbies]|
-|[Use The Index, Luke]|
-|[Why You Should Design Your Database to Optimise for Statistics]|
 ------------
+
+
+
+[coment]: # (Index)
+[Discovering the Computer Science Behind Postgres Indexes]: <https://patshaughnessy.net/2014/11/11/discovering-the-computer-science-behind-postgres-indexes>
+[Postgres Indexes for Newbies]: <https://blog.crunchydata.com/blog/postgres-indexes-for-newbies>
+[Use The Index, Luke]:<https://use-the-index-luke.com/>
 
 
 
@@ -54,6 +74,7 @@ Seção dedicada a textos relacionados a Banco de Dados.
 ]: <https://blog.jooq.org/how-to-find-the-longest-consecutive-series-of-events-in-sql/>
 [How can data-type choice affect performance?]: <https://www.sqlskills.com/blogs/paul/how-can-data-type-choice-affect-performance/>
 [Performance impact of idle PostgreSQL connections]: <https://aws.amazon.com/blogs/database/performance-impact-of-idle-postgresql-connections/>
+[Why You Should Design Your Database to Optimise for Statistics]: <https://blog.jooq.org/why-you-should-design-your-database-to-optimise-for-statistics/>
 
 
 
@@ -67,6 +88,3 @@ Seção dedicada a textos relacionados a Banco de Dados.
 [Catálogo de Code Smells ORM]: <https://github.com/spgroup/ORM-Smells-Catalog>
 [How Your SQL Server Data Type Choices Can Affect Database Performance]: <https://www.sentryone.com/white-papers/data-type-choice-affects-database-performance>
 [Memoization in Cost-based Optimizers]: <https://www.querifylabs.com/blog/memoization-in-cost-based-optimizers>
-[Postgres Indexes for Newbies]: <https://blog.crunchydata.com/blog/postgres-indexes-for-newbies>
-[Use The Index, Luke]:<https://use-the-index-luke.com/>
-[Why You Should Design Your Database to Optimise for Statistics]: <https://blog.jooq.org/why-you-should-design-your-database-to-optimise-for-statistics/>
