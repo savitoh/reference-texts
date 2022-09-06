@@ -49,6 +49,7 @@ Section with texts about DataBase
 |---|
 |[Catálogo de Code Smells ORM]|
 |[How to Find the Longest Consecutive Series of Events in SQL]|
+|[How to Store, Query, and Create JSON Documents in Oracle Database]|
 |[The Oracle Optimizer Explain the Explain Plan]|
 |[Memoization in Cost-based Optimizers]|
 ------------
@@ -87,5 +88,6 @@ Section with texts about DataBase
 [comment]: # (Relational Database)
 [Catálogo de Code Smells ORM]: <https://github.com/spgroup/ORM-Smells-Catalog>
 [How to Find the Longest Consecutive Series of Events in SQL]: <https://blog.jooq.org/how-to-find-the-longest-consecutive-series-of-events-in-sql/>
+[How to Store, Query, and Create JSON Documents in Oracle Database]: <https://blogs.oracle.com/sql/post/how-to-store-query-and-create-json-documents-in-oracle-database>
 [The Oracle Optimizer Explain the Explain Plan]: <https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-explain-the-explain-plan-052011-393674.pdf>
 [Memoization in Cost-based Optimizers]: <https://www.querifylabs.com/blog/memoization-in-cost-based-optimizers>
