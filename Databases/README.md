@@ -49,6 +49,7 @@ Section with texts about DataBase
 |---|
 |[Catálogo de Code Smells ORM]|
 |[How to Find the Longest Consecutive Series of Events in SQL]|
+|[The Oracle Optimizer Explain the Explain Plan]|
 |[Memoization in Cost-based Optimizers]|
 ------------
 
@@ -70,9 +71,8 @@ Section with texts about DataBase
 
 
 [coment]: # (Performance)
-[How to Find the Longest Consecutive Series of Events in SQL
-]: <https://blog.jooq.org/how-to-find-the-longest-consecutive-series-of-events-in-sql/>
 [How can data-type choice affect performance?]: <https://www.sqlskills.com/blogs/paul/how-can-data-type-choice-affect-performance/>
+[How Your SQL Server Data Type Choices Can Affect Database Performance]: <https://www.sentryone.com/white-papers/data-type-choice-affects-database-performance>
 [Performance impact of idle PostgreSQL connections]: <https://aws.amazon.com/blogs/database/performance-impact-of-idle-postgresql-connections/>
 [Why You Should Design Your Database to Optimise for Statistics]: <https://blog.jooq.org/why-you-should-design-your-database-to-optimise-for-statistics/>
 
@@ -86,5 +86,6 @@ Section with texts about DataBase
 
 [comment]: # (Relational Database)
 [Catálogo de Code Smells ORM]: <https://github.com/spgroup/ORM-Smells-Catalog>
-[How Your SQL Server Data Type Choices Can Affect Database Performance]: <https://www.sentryone.com/white-papers/data-type-choice-affects-database-performance>
+[How to Find the Longest Consecutive Series of Events in SQL]: <https://blog.jooq.org/how-to-find-the-longest-consecutive-series-of-events-in-sql/>
+[The Oracle Optimizer Explain the Explain Plan]: <https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-explain-the-explain-plan-052011-393674.pdf>
 [Memoization in Cost-based Optimizers]: <https://www.querifylabs.com/blog/memoization-in-cost-based-optimizers>
