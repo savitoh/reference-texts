@@ -48,6 +48,7 @@ Section with texts about DataBase
 | **Title**  |
 |---|
 |[Catálogo de Code Smells ORM]|
+|[Database Sample Schemas]|
 |[Generating JSON data]|
 |[How to Find the Longest Consecutive Series of Events in SQL]|
 |[How to Store, Query, and Create JSON Documents in Oracle Database]|
@@ -88,6 +89,7 @@ Section with texts about DataBase
 
 [comment]: # (Relational Database)
 [Catálogo de Code Smells ORM]: <https://github.com/spgroup/ORM-Smells-Catalog>
+[Database Sample Schemas]: <https://docs.oracle.com/en/database/oracle/oracle-database/21/comsc/lot.html>
 [Generating JSON data]: <https://blogs.oracle.com/database/post/generating-json-data>
 [How to Find the Longest Consecutive Series of Events in SQL]: <https://blog.jooq.org/how-to-find-the-longest-consecutive-series-of-events-in-sql/>
 [How to Store, Query, and Create JSON Documents in Oracle Database]: <https://blogs.oracle.com/sql/post/how-to-store-query-and-create-json-documents-in-oracle-database>
