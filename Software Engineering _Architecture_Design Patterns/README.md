@@ -21,6 +21,14 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 [Source Making]: <https://sourcemaking.com/>
 
 
+### Distributed Systems
+
+|**Título** |
+|---|
+|[Eventual Consistency and Conflict Resolution - Part 1]|
+------------
+
+
 
 ### Event-driven architecture / Server-Sent Events
 
@@ -33,6 +41,14 @@ Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, De
 |[Server-Sent Events Using Spring WebFlux and Reactive Kafka]|
 ------------
 
+
+
+[coment]: # (Distributed Systems)
+[Eventual Consistency and Conflict Resolution - Part 1]: <https://www.mydistributed.systems/2022/02/eventual-consistency-part-1.html>
+
+
+
+[coment]: # (Event-driven architecture / Server-Sent Events)
 [A Great Day Out With... Apache Kafka]: <https://a-great-day-out-with.github.io/kafka.html>
 
 [A Reference Architecture for Responsive Asynchronous Task Execution]: <https://medium.com/event-driven-utopia/a-reference-architecture-for-responsive-asynchronous-task-execution-783bd2a1ed8b>
