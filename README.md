@@ -143,9 +143,9 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 
 
-[Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns>
-[Event-driven architecture / Server-Sent Events]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns#event-driven-architecture--server-sent-events>
-[Distributed Systems]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Engineering%20_Architecture_Design%20Patterns#distributed-systems>
+[Software Engineering / Architecture / Design Patterns]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Architecture%20And%20Design>
+[Event-driven architecture / Server-Sent Events]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Architecture%20And%20Design#event-driven-architecture--server-sent-events>
+[Distributed Systems]: <https://github.com/savitoh/reference-texts/tree/master/Software%20Architecture%20And%20Design#distributed-systems>
 
 
 

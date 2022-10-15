@@ -1,6 +1,6 @@
-## Software Engineering / Architecture / Design Patterns
+## Software Architecture and Design
 
-Seção dedicada a textos relacionados a Engenharia de Software, Arquitetura, Design Patterns e Boas Práticas de código.
+Section with articles about Software Architecture and Design.
 
 
 | **Título**  |
