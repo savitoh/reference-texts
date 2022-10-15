@@ -57,7 +57,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Basic]
 - [Concurrency](https://github.com/savitoh/reference-texts/tree/master/Kotlin#concurrency)
 
-#### [Software Engineering / Architecture / Design Patterns]
+#### [Software Architecture and Design]
 
 - [Event-driven architecture / Server-Sent Events]
 - [Distributed Systems]
