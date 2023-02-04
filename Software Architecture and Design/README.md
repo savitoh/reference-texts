@@ -6,6 +6,7 @@ Section with articles about Software Architecture and Design.
 | **Título**  |
 |---|
 |[Apostila do curso Microservices com Spring Cloud da Caelum]|
+|[Cloud Design Patterns]|
 |[Design patterns implemented in Java]|
 |[Refactoring Guru]|
 |[Source Making]|
@@ -13,6 +14,8 @@ Section with articles about Software Architecture and Design.
 
 
 [Apostila do curso Microservices com Spring Cloud da Caelum]: <https://github.com/caelum/apostila-microservices-com-spring-cloud>
+
+[Cloud Design Patterns]: <https://learn.microsoft.com/en-us/azure/architecture/patterns/>
 
 [Design patterns implemented in Java]: <https://java-design-patterns.com/>
 
