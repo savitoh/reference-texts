@@ -22,6 +22,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 - [Modeling]
 - [Performance]
 - [Public Streaming Datasets]
+- [Queries]
 - [Relational Database]
 
 #### [DevOps]
@@ -96,9 +97,10 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
 [Index]: <https://github.com/savitoh/reference-texts/tree/master/Databases#index>
 [Modeling]: <https://github.com/savitoh/reference-texts/tree/master/Databases#modeling>
-[Relational Database]: <https://github.com/savitoh/reference-texts/tree/master/Databases#relational-database>
 [Performance]: <https://github.com/savitoh/reference-texts/tree/master/Databases#performance>
 [Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
+[Queries]: <https://github.com/savitoh/reference-texts/tree/master/Databases#queries>
+[Relational Database]: <https://github.com/savitoh/reference-texts/tree/master/Databases#relational-database>
 
 
 

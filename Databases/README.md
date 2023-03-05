@@ -44,6 +44,15 @@ Section with texts about DataBase
 
 
 
+### Queries
+| **Title**  |
+|---|
+|[Advanced SQL - window functions]|
+|[Introduction to Gaps and Islands Analysis]|
+------------
+
+
+
 ### Relational Database
 | **Title**  |
 |---|
@@ -84,6 +93,12 @@ Section with texts about DataBase
 [comment]: # (Public Streaming Datasets)
 [Awesome Public Streaming Datasets]: <https://github.com/ColinEberhardt/awesome-public-streaming-datasets>
 [Where can I find public or free real-time or streaming data sources?]: <https://www.quora.com/Where-can-I-find-public-or-free-real-time-or-streaming-data-sources>
+
+
+
+[comment]: # (Queries)
+[Advanced SQL - window functions]: <https://mjk.space/advanced-sql-window-functions/>
+[Introduction to Gaps and Islands Analysis]: <https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/introduction-to-gaps-and-islands-analysis/>
 
 
 
