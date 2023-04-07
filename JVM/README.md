@@ -47,6 +47,7 @@ Section dedicated to JVM related texts.
 |---|
 |[Finding heap memory leaks with Async-profiler]|
 |[JVM Profiling in Kubernetes with Java Flight Recorder]|
+|[VISUALVM SQL PROFILER SQL]|
 ------------
 
 
@@ -82,6 +83,6 @@ Section dedicated to JVM related texts.
 
 [comment]: # (Profiling)
 [Finding heap memory leaks with Async-profiler]: <https://krzysztofslusarski.github.io/2022/11/27/async-live.html>
-[JVM Profiling in Kubernetes with Java Flight Recorder
-]: <https://tech.olx.com/jvm-profiling-in-kubernetes-with-java-flight-recorder-b39a6181a99c>
+[JVM Profiling in Kubernetes with Java Flight Recorder]: <https://tech.olx.com/jvm-profiling-in-kubernetes-with-java-flight-recorder-b39a6181a99c>
+[VISUALVM SQL PROFILER SQL]: <https://www.loicmathieu.fr/wordpress/en/informatique/le-profiler-sql-de-visualvm/>
 
