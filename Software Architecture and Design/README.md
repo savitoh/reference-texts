@@ -29,6 +29,7 @@ Section with articles about Software Architecture and Design.
 |**Título** |
 |---|
 |[Eventual Consistency and Conflict Resolution - Part 1]|
+|[Clocks and Causality - Ordering Events in Distributed Systems]|
 ------------
 
 
@@ -49,6 +50,7 @@ Section with articles about Software Architecture and Design.
 
 [coment]: # (Distributed Systems)
 [Eventual Consistency and Conflict Resolution - Part 1]: <https://www.mydistributed.systems/2022/02/eventual-consistency-part-1.html>
+[Clocks and Causality - Ordering Events in Distributed Systems]: <https://www.exhypothesi.com/clocks-and-causality/>
 
 
 
