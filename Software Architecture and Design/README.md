@@ -43,6 +43,7 @@ Section with articles about Software Architecture and Design.
 |[Building a tool to monitor real-time behavior of Wikipedia users]|
 |[CHAPTER 5. DEVELOPING REACTIVE APPLICATIONS USING SPRING BOOT WITH ECLIPSE VERT.X]|
 |[In the land of the sizing, the one-partition Kafka topic is king]|
+|[Kafka Visualization]|
 |[Server-Sent Events Using Spring WebFlux and Reactive Kafka]|
 ------------
 
@@ -64,5 +65,7 @@ Section with articles about Software Architecture and Design.
 [CHAPTER 5. DEVELOPING REACTIVE APPLICATIONS USING SPRING BOOT WITH ECLIPSE VERT.X]: <https://access.redhat.com/documentation/en-us/red_hat_support_for_spring_boot/2.2/html/spring_boot_runtime_guide/developing-reactive-applications-using-spring-boot-vertx_spring-boot#server-sent-events_spring-boot>
 
 [In the land of the sizing, the one-partition Kafka topic is king]: <https://www.buildon.aws/posts/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/01-what-are-partitions/>
+
+[Kafka Visualization]: <https://softwaremill.com/kafka-visualisation/>
 
 [Server-Sent Events Using Spring WebFlux and Reactive Kafka]: <https://medium.com/egen/server-sent-events-using-spring-webflux-and-reactive-kafka-1a7ddbca4f5d>
