@@ -8,6 +8,7 @@ Section with texts about DataBase
 |---|
 |[Discovering the Computer Science Behind Postgres Indexes]|
 |[Postgres Indexes for Newbies]|
+|[Understanding database Indexes in PostgreSQL]|
 |[Use The Index, Luke]|
 ------------
 
@@ -70,6 +71,7 @@ Section with texts about DataBase
 [coment]: # (Index)
 [Discovering the Computer Science Behind Postgres Indexes]: <https://patshaughnessy.net/2014/11/11/discovering-the-computer-science-behind-postgres-indexes>
 [Postgres Indexes for Newbies]: <https://blog.crunchydata.com/blog/postgres-indexes-for-newbies>
+[Understanding database Indexes in PostgreSQL]: <https://blog.mastermind.dev/indexes-in-postgresql>
 [Use The Index, Luke]:<https://use-the-index-luke.com/>
 
 
