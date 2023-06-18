@@ -19,7 +19,8 @@ Section with texts about DataBase
 |---|
 |[Database Design: Using Natural Keys]|
 |[Designing Highly Scalable Database Architectures]|
-|[Monolith to Microservices: Refactoring Relational Databases]s|
+|[Don't Do This - PostgreSQL]|
+|[Monolith to Microservices: Refactoring Relational Databases]|
 |[Inconsistent thoughts on database consistency]|
 |[Investment Portfolio Data Modeling]|
 ------------
@@ -80,6 +81,7 @@ Section with texts about DataBase
 [coment]: # (Modeling)
 [Database Design: Using Natural Keys]: <https://www.endpointdev.com/blog/2021/03/database-design-using-natural-keys/>
 [Designing Highly Scalable Database Architectures]: <https://www.red-gate.com/simple-talk/databases/sql-server/performance-sql-server/designing-highly-scalable-database-architectures/>
+[Don't Do This - PostgreSQL]: <https://wiki.postgresql.org/wiki/Don%27t_Do_This>
 [Monolith to Microservices: Refactoring Relational Databases]: <https://programmaticponderings.com/2022/04/14/monolith-to-microservices-refactoring-relational-databases>
 [Inconsistent thoughts on database consistency]: <https://www.alexdebrie.com/posts/database-consistency/>
 [Investment Portfolio Data Modeling]: <https://www.datastax.com/learn/data-modeling-by-example/investment-data-model#conceptual>
