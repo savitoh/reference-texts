@@ -15,7 +15,9 @@ Section with Links about Algorithms and Data Structures.
 ### Data Structures
 | **Title**  |
 |---|
+| [Eytzinger Binary Search] |
 | [Implementing Hash Tables in C] |
+| [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections] |
 ------------
 
 
@@ -27,4 +29,6 @@ Section with Links about Algorithms and Data Structures.
 
 
 [comment]: # (Data Structures)
+[Eytzinger Binary Search]: <https://algorithmica.org/en/eytzinger>
 [Implementing Hash Tables in C]: <https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1>
+[Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections]: <https://michael.steindorfer.name/publications/oopsla15.pdf>
