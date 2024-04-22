@@ -59,6 +59,7 @@ Section with Links about Java
 
 |**Title**|
 |---|
+|[Proxying Mechanisms]|
 |[Spring Framework Documentation]|
 |[Servlet Container and Spring Framework]|
 ------------
@@ -121,6 +122,7 @@ Section with Links about Java
 
 
 [comment]: # (Spring Framework)
+[Proxying Mechanisms]: <https://docs.spring.io/spring-framework/reference/core/aop/proxying.html#aop-understanding-aop-proxies>
 [Spring Framework Documentation]: <https://docs.spring.io/spring/docs/current/spring-framework-reference/>
 [Servlet Container and Spring Framework]: <https://mossgreen.github.io/Servlet-Containers-and-Spring-Framework/>
 
