@@ -46,6 +46,7 @@ Section with articles about Software Architecture and Design.
 |[In the land of the sizing, the one-partition Kafka topic is king]|
 |[Kafka Visualization]|
 |[Server-Sent Events Using Spring WebFlux and Reactive Kafka]|
+|[The way we are building event-driven applications is misguided. So we created Infinitic.]|
 ------------
 
 
@@ -71,3 +72,5 @@ Section with articles about Software Architecture and Design.
 [Kafka Visualization]: <https://softwaremill.com/kafka-visualisation/>
 
 [Server-Sent Events Using Spring WebFlux and Reactive Kafka]: <https://medium.com/egen/server-sent-events-using-spring-webflux-and-reactive-kafka-1a7ddbca4f5d>
+
+[The way we are building event-driven applications is misguided. So we created Infinitic.]: <https://www.infinitic.io/post/the-way-we-are-building-event-driven-applications-is-misguided>
