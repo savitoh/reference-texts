@@ -32,6 +32,7 @@ Section with texts about DataBase
 |---|
 |[How Your SQL Server Data Type Choices Can Affect Database Performance]|
 |[How can data-type choice affect performance?]|
+|[Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work”]|
 |[Performance impact of idle PostgreSQL connections]|
 |[Why You Should Design Your Database to Optimise for Statistics]|
 -------------
@@ -91,6 +92,7 @@ Section with texts about DataBase
 [coment]: # (Performance)
 [How can data-type choice affect performance?]: <https://www.sqlskills.com/blogs/paul/how-can-data-type-choice-affect-performance/>
 [How Your SQL Server Data Type Choices Can Affect Database Performance]: <https://www.sentryone.com/white-papers/data-type-choice-affects-database-performance>
+[Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work”]: <https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/>
 [Performance impact of idle PostgreSQL connections]: <https://aws.amazon.com/blogs/database/performance-impact-of-idle-postgresql-connections/>
 [Why You Should Design Your Database to Optimise for Statistics]: <https://blog.jooq.org/why-you-should-design-your-database-to-optimise-for-statistics/>
 
