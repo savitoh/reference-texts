@@ -6,6 +6,8 @@ Section with articles about Software Architecture and Design.
 | **Título**  |
 |---|
 |[Apostila do curso Microservices com Spring Cloud da Caelum]|
+|[Architectural Katas]|
+|[Architecture Tradeoff Analysis Method Collection]|
 |[Cloud Design Patterns]|
 |[Design patterns implemented in Java]|
 |[Refactoring Guru]|
@@ -14,6 +16,10 @@ Section with articles about Software Architecture and Design.
 
 
 [Apostila do curso Microservices com Spring Cloud da Caelum]: <https://github.com/caelum/apostila-microservices-com-spring-cloud>
+
+[Architectural Katas]: <https://nealford.com/katas/list.html>
+
+[Architecture Tradeoff Analysis Method Collection]: <https://insights.sei.cmu.edu/library/architecture-tradeoff-analysis-method-collection/>
 
 [Cloud Design Patterns]: <https://learn.microsoft.com/en-us/azure/architecture/patterns/>
 
