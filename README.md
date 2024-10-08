@@ -29,6 +29,9 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 - [CI/CD]
 
+#### [Golang]
+ - [Best Practices]
+
 #### [Java]
 
 - [Basic]
@@ -106,6 +109,12 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 
 [DevOps]: <https://github.com/savitoh/Reference_Texts/tree/master/DevOps>
 [CI/CD]: <https://github.com/savitoh/reference-texts/tree/master/DevOps#cicd>
+
+
+
+[coment]: # (Golang)
+[Golang]: <https://github.com/savitoh/reference-texts/tree/master/Golang#golang-links>
+[Best Practices]: <https://github.com/savitoh/reference-texts/tree/master/Golang#best-practices>
 
 
 
