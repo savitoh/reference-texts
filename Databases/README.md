@@ -14,6 +14,14 @@ Section with texts about DataBase
 
 
 
+### Key Value Database
+| **Title**  |
+|---|
+|[Implementing a Key-Value Store]|
+------------
+
+
+
 ### Modeling
 | **Title**  |
 |---|
@@ -71,11 +79,18 @@ Section with texts about DataBase
 
 
 
+
+
 [coment]: # (Index)
 [Discovering the Computer Science Behind Postgres Indexes]: <https://patshaughnessy.net/2014/11/11/discovering-the-computer-science-behind-postgres-indexes>
 [Postgres Indexes for Newbies]: <https://blog.crunchydata.com/blog/postgres-indexes-for-newbies>
 [Understanding database Indexes in PostgreSQL]: <https://blog.mastermind.dev/indexes-in-postgresql>
 [Use The Index, Luke]:<https://use-the-index-luke.com/>
+
+
+
+[comment]: # (Key Value Database)
+[Implementing a Key-Value Store]: <https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/>
 
 
 

@@ -99,6 +99,7 @@ Repositório com links para artigos e tutoriais para estudo e/ou referência na 
 [comment]: # (Database)
 [Databases]: <https://github.com/savitoh/reference-texts/tree/master/Databases#databases-links>
 [Index]: <https://github.com/savitoh/reference-texts/tree/master/Databases#index>
+[Key Value Database]: <https://github.com/savitoh/reference-texts/tree/master/Databases#key-value-database>
 [Modeling]: <https://github.com/savitoh/reference-texts/tree/master/Databases#modeling>
 [Performance]: <https://github.com/savitoh/reference-texts/tree/master/Databases#performance>
 [Public Streaming Datasets]: <https://github.com/savitoh/reference-texts/tree/master/Databases#public-streaming-datasets>
